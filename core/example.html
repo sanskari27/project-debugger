@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Core Library Example</title>
+  </head>
+  <body>
+    <h1>Core Library CDN Example</h1>
+    <div id="output"></div>
+
+    <!-- Load the library from CDN -->
+    <script src="dist/core.min.js"></script>
+    <script>
+      // Access the library
+      const core = new Core.Core();
+
+      // Use utility functions
+      const id = Core.generateId();
+      const cloned = Core.deepClone({ a: 1, b: { c: 2 } });
+      const isEmpty = Core.isEmpty('');
+      const formatted = Core.formatBytes(1024);
+
+      // Display results
+      const output = document.getElementById('output');
+      output.innerHTML = `
+            <h2>Library Version: ${core.getVersion()}</h2>
+            <h3>Greeting: ${core.greet('Developer')}</h3>
+            <h3>Generated ID: ${id}</h3>
+            <h3>Deep Clone: ${JSON.stringify(cloned)}</h3>
+            <h3>Is Empty: ${isEmpty}</h3>
+            <h3>Formatted Bytes: ${formatted}</h3>
+        `;
+
+      console.log('Core library loaded successfully!');
+      console.log('Available functions:', Object.keys(Core));
+    </script>
+  </body>
+</html>
