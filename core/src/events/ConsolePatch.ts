@@ -1,32 +1,25 @@
+import EventsManager from '../EventsManager';
+import { ConsoleMethod } from '../types';
+
 (() => {
-  type ConsoleMethod = 'log' | 'warn' | 'error' | 'info' | 'debug';
-
-  type CapturedLog = {
-    method: ConsoleMethod;
-    args: any[];
-    timestamp: string;
-  };
-
   const originalConsole: Partial<Record<ConsoleMethod, typeof console.log>> =
     {};
-  const logs: CapturedLog[] = [];
 
-  const methods: ConsoleMethod[] = ['log', 'warn', 'error', 'info', 'debug'];
+  const methods: ConsoleMethod[] = ['log', 'warn', 'error', 'info'];
 
-  if (!(console as any).__isFullyMonkeyPatched__) {
-    (console as any).__isFullyMonkeyPatched__ = true;
+  if (!(console as any).__patched__) {
+    (console as any).__patched__ = true;
 
     methods.forEach(method => {
       originalConsole[method] = console[method];
 
       console[method] = (...args: any[]) => {
-        logs.push({
+        EventsManager.on('console-log', {
+          type: 'console-log',
           method,
           args,
-          timestamp: new Date().toISOString(),
         });
-
-        originalConsole[method]?.([method, ...args]);
+        originalConsole[method]?.(...args);
       };
     });
   }

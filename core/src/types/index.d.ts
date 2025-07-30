@@ -28,6 +28,13 @@ export interface DOMEvent {
   event: any;
 }
 
+export interface ConsoleEvent {
+  type: 'console-log';
+  method: ConsoleMethod;
+  args: any[];
+}
+
+export type ConsoleMethod = 'log' | 'warn' | 'error' | 'info' | 'debug';
 export type APIEvent = APIRequestEvent | APIResponseEvent;
 export type EventType = 'api-call' | 'dom-update' | 'console-log';
 export type Event = APIRequestEvent | APIResponseEvent | DOMEvent;

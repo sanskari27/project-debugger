@@ -1,12 +1,6 @@
 import { generateTrackingHeaders } from './lib/utils';
 import { APIEvent, DOMEvent, TrackingVariables } from './types';
 
-type ConsoleEvent = {
-  type: 'console-log';
-  message: string;
-  level: 'info' | 'error' | 'warn' | 'debug';
-};
-
 type EventMap = {
   'api-call': APIEvent;
   'dom-update': DOMEvent;
@@ -56,6 +50,7 @@ export default class EventsManager {
   private saveEvents() {
     this.saveDomEvents();
     this.saveApiEvents();
+    this.saveConsoleEvents();
   }
 
   private saveDomEvents() {
@@ -97,6 +92,30 @@ export default class EventsManager {
         }),
       },
       body: apiEventsJson,
+    });
+  }
+
+  private saveConsoleEvents() {
+    const consoleEvents = this.events['console-log'];
+    if (
+      !consoleEvents ||
+      !Array.isArray(consoleEvents) ||
+      consoleEvents.length === 0
+    ) {
+      return;
+    }
+    const consoleEventsJson = JSON.stringify({ events: consoleEvents });
+    this.events['console-log'] = [];
+    fetch(EventsManager.eventsAPIUrl, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        ...generateTrackingHeaders({
+          ...EventsManager.trackingVariables,
+          event: 'console-log',
+        }),
+      },
+      body: consoleEventsJson,
     });
   }
 }

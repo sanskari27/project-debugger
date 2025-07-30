@@ -2,18 +2,30 @@
 import EventsManager from './EventsManager';
 import { getSessionId } from './lib/tracking';
 
-async function init({ uid }: { uid: string }) {
+async function init(opts: {
+  sid?: string;
+  uid?: string;
+  channel?: string;
+  eventsAPIUrl: string;
+}) {
+  if (typeof window === 'undefined') {
+    return;
+  } else if (!opts.eventsAPIUrl) {
+    throw new Error('INIT FAILED: eventsAPIUrl is required');
+  }
+
   await import('./events/ApiPatch');
+  await import('./events/ConsolePatch');
   EventsManager.getInstance().init({
     trackingVariables: {
       rid: '',
-      sid: getSessionId(),
-      uid: uid || '',
+      sid: opts.sid || getSessionId(),
+      uid: opts.uid || '',
       origin: window?.location?.origin,
       event: '',
-      channel: 'core',
+      channel: opts.channel || 'core',
     },
-    eventsAPIUrl: 'https://example.com/events',
+    eventsAPIUrl: opts.eventsAPIUrl || '',
   });
 }
 
