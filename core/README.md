@@ -1,4 +1,4 @@
-# @project-debugger/core
+# debugger-core
 
 A TypeScript library for tracking and debugging web applications. Supports both npm package and CDN usage.
 
@@ -7,13 +7,13 @@ A TypeScript library for tracking and debugging web applications. Supports both 
 ### As an npm package
 
 ```bash
-npm install @project-debugger/core
+npm install debugger-core
 ```
 
 ### Via CDN
 
 ```html
-<script src="https://unpkg.com/@project-debugger/core/dist/core.min.js"></script>
+<script src="https://unpkg.com/debugger-core/dist/core.min.js"></script>
 ```
 
 ## Usage
@@ -22,10 +22,10 @@ npm install @project-debugger/core
 
 ```javascript
 // ES6 modules
-import { init } from '@project-debugger/core';
+import { init } from 'debugger-core';
 
 // CommonJS
-const { init } = require('@project-debugger/core');
+const { init } = require('debugger-core');
 
 // Initialize the debugger
 init({
@@ -47,7 +47,7 @@ init({
   <body>
     <h1>Hello World</h1>
 
-    <script src="https://unpkg.com/@project-debugger/core/dist/core.min.js"></script>
+    <script src="https://unpkg.com/debugger-core/dist/core.min.js"></script>
     <script>
       // The library is available as ProjectDebuggerCore
       ProjectDebuggerCore.init({
@@ -78,7 +78,7 @@ Initializes the project debugger with the specified configuration.
 #### Example
 
 ```javascript
-import { init } from '@project-debugger/core';
+import { init } from 'debugger-core';
 
 init({
   eventsAPIUrl: 'https://api.example.com/events',

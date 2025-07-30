@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Publish script for @project-debugger/core
+# Publish script for debugger-core
 # Run with: ./scripts/publish.sh [version]
 
 set -e

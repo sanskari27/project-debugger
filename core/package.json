@@ -1,5 +1,5 @@
 {
-    "name": "@project-debugger/core",
+    "name": "debugger-core",
     "version": "1.0.1",
     "description": "A TypeScript library for tracking and debugging web applications. Supports both npm package and CDN usage.",
     "main": "dist/cjs/index.js",
