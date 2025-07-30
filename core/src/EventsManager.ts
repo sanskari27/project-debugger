@@ -16,15 +16,16 @@ export default class EventsManager {
     'dom-update': [],
     'console-log': [],
   };
-  private static instance: EventsManager;
+  private static instance: EventsManager | undefined;
+  private intervalId?: ReturnType<typeof setInterval>;
 
   private constructor() {
     if (EventsManager.instance) {
       return EventsManager.instance;
     }
     EventsManager.instance = this;
-    setInterval(() => {
-      EventsManager.instance.saveEvents();
+    this.intervalId = setInterval(() => {
+      EventsManager.instance?.saveEvents();
     }, EventsManager.EVENTS_SAVE_INTERVAL);
   }
 
@@ -44,7 +45,16 @@ export default class EventsManager {
   }
 
   static on<K extends keyof EventMap>(event: K, e: EventMap[K]) {
-    EventsManager.instance.events[event].push(e);
+    EventsManager.instance?.events[event].push(e);
+  }
+
+  // Cleanup method to clear interval and reset instance
+  public static cleanup() {
+    if (EventsManager.instance && EventsManager.instance.intervalId) {
+      clearInterval(EventsManager.instance.intervalId);
+      EventsManager.instance.intervalId = undefined;
+    }
+    EventsManager.instance = undefined;
   }
 
   private saveEvents() {

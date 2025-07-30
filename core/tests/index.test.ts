@@ -1,6 +1,17 @@
+import EventsManager from '../src/EventsManager';
 import { init } from '../src/index';
 
 describe('Project Debugger Core', () => {
+  afterEach(() => {
+    // Clean up EventsManager after each test
+    EventsManager.cleanup();
+  });
+
+  afterAll(() => {
+    // Final cleanup
+    EventsManager.cleanup();
+  });
+
   test('init function should be available', () => {
     expect(typeof init).toBe('function');
   });
@@ -30,7 +41,7 @@ describe('Project Debugger Core', () => {
     delete (global as any).window;
 
     try {
-      await init({});
+      await init({} as any);
       // Should not reach here in Node.js environment
     } catch (error) {
       expect((error as Error).message).toContain('eventsAPIUrl is required');

@@ -30,6 +30,7 @@
         "type-check": "tsc --noEmit",
         "test": "jest",
         "test:watch": "jest --watch",
+        "test:debug": "jest --detectOpenHandles",
         "test:npm": "./test/npm-tests/run-all-tests.sh",
         "test:publish": "./scripts/test-publish.sh",
         "publish:npm": "./scripts/publish.sh",

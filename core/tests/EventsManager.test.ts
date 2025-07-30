@@ -5,8 +5,18 @@ describe('EventsManager', () => {
 
   beforeEach(() => {
     // Reset the singleton instance for each test
-    (EventsManager as any).instance = undefined;
+    EventsManager.cleanup();
     eventsManager = EventsManager.getInstance();
+  });
+
+  afterEach(() => {
+    // Clean up after each test
+    EventsManager.cleanup();
+  });
+
+  afterAll(() => {
+    // Final cleanup
+    EventsManager.cleanup();
   });
 
   test('should be a singleton', () => {
@@ -80,5 +90,17 @@ describe('EventsManager', () => {
         eventsAPIUrl,
       });
     }).not.toThrow();
+  });
+
+  test('should cleanup properly', () => {
+    const instance = EventsManager.getInstance();
+    expect(instance).toBeDefined();
+
+    EventsManager.cleanup();
+
+    // After cleanup, getInstance should create a new instance
+    const newInstance = EventsManager.getInstance();
+    expect(newInstance).toBeDefined();
+    expect(newInstance).not.toBe(instance);
   });
 });

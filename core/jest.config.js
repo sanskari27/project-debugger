@@ -25,5 +25,14 @@ export default {
     testPathIgnorePatterns: [
         '/node_modules/',
         '/dist/'
-    ]
+    ],
+    // Add timeout and force exit options to prevent hanging
+    testTimeout: 10000,
+    forceExit: true,
+    // Clear mocks between tests
+    clearMocks: true,
+    // Reset modules between tests
+    resetModules: true,
+    // Restore mocks between tests
+    restoreMocks: true
 }; 
