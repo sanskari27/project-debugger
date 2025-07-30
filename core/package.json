@@ -1,6 +1,6 @@
 {
     "name": "@project-debugger/core",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A TypeScript library for tracking and debugging web applications. Supports both npm package and CDN usage.",
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",
@@ -31,6 +31,7 @@
         "test": "jest",
         "test:watch": "jest --watch",
         "test:npm": "./test/npm-tests/run-all-tests.sh",
+        "test:publish": "./scripts/test-publish.sh",
         "publish:npm": "./scripts/publish.sh",
         "prepare": "npm run build"
     },
