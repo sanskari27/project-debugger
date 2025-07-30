@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Test runner for all npm module types
-# Run with: ./test/npm-tests/run-all-tests.sh
+# Run with: ./tests/npm-tests/run-all-tests.sh
 
 set -e
 
@@ -49,7 +49,7 @@ fi
 
 echo ""
 print_status "INFO" "Testing ES Module (ESM)..."
-if node test/npm-tests/esm-test.mjs; then
+if node tests/npm-tests/esm-test.mjs; then
     print_status "PASS" "ES Module tests completed successfully"
 else
     print_status "FAIL" "ES Module tests failed"
@@ -58,7 +58,7 @@ fi
 
 echo ""
 print_status "INFO" "Testing CommonJS..."
-if node test/npm-tests/cjs-test.cjs; then
+if node tests/npm-tests/cjs-test.cjs; then
     print_status "PASS" "CommonJS tests completed successfully"
 else
     print_status "FAIL" "CommonJS tests failed"
@@ -67,8 +67,8 @@ fi
 
 echo ""
 print_status "INFO" "UMD/CDN tests require a browser environment"
-print_status "INFO" "Open test/npm-tests/umd-test.html in a browser to test UMD/CDN functionality"
+print_status "INFO" "Open tests/npm-tests/umd-test.html in a browser to test UMD/CDN functionality"
 
 echo ""
 print_status "INFO" "All Node.js tests completed successfully! 🎉"
-print_status "INFO" "For UMD/CDN testing, open: test/npm-tests/umd-test.html" 
+print_status "INFO" "For UMD/CDN testing, open: tests/npm-tests/umd-test.html" 

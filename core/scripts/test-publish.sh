@@ -65,6 +65,53 @@ else
     fi
 fi
 
+# Test 6: Check if tests directory exists and has tests
+echo -e "${BLUE}Checking test structure...${NC}"
+if [ -d "tests" ]; then
+    echo -e "${GREEN}✅ Tests directory exists${NC}"
+    
+    # Check for main test files
+    if [ -f "tests/index.test.ts" ]; then
+        echo -e "${GREEN}✅ Main tests exist${NC}"
+    else
+        echo "❌ Main tests missing"
+        exit 1
+    fi
+    
+    if [ -f "tests/EventsManager.test.ts" ]; then
+        echo -e "${GREEN}✅ EventsManager tests exist${NC}"
+    else
+        echo "❌ EventsManager tests missing"
+        exit 1
+    fi
+    
+    if [ -f "tests/utils.test.ts" ]; then
+        echo -e "${GREEN}✅ Utils tests exist${NC}"
+    else
+        echo "❌ Utils tests missing"
+        exit 1
+    fi
+    
+    if [ -d "tests/npm-tests" ]; then
+        echo -e "${GREEN}✅ NPM module tests exist${NC}"
+    else
+        echo "❌ NPM module tests missing"
+        exit 1
+    fi
+else
+    echo "❌ Tests directory not found"
+    exit 1
+fi
+
+# Test 7: Run a quick test to ensure tests work
+echo -e "${BLUE}Running quick test verification...${NC}"
+if npm test -- --passWithNoTests >/dev/null 2>&1; then
+    echo -e "${GREEN}✅ Tests can be executed${NC}"
+else
+    echo "❌ Tests cannot be executed"
+    exit 1
+fi
+
 echo ""
 echo -e "${GREEN}🎉 All publish script tests passed!${NC}"
 echo ""
@@ -72,4 +119,4 @@ echo "To publish the package:"
 echo "1. Commit your changes: git add . && git commit -m 'feat: ready for publish'"
 echo "2. Login to npm: npm login"
 echo "3. Run publish: npm run publish:npm"
-echo "4. Or with specific version: npm run publish:npm 1.0.1" 
+echo "4. Or with specific version: npm run publish:npm 1.0.3" 

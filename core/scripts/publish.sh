@@ -118,12 +118,12 @@ else
     exit 1
 fi
 
-# Step 5: Run tests
-print_status "STEP" "Running tests..."
+# Step 5: Run unit tests (with open handle detection)
+print_status "STEP" "Running unit tests..."
 if npm test; then
-    print_status "SUCCESS" "Tests passed"
+    print_status "SUCCESS" "Unit tests passed"
 else
-    print_status "FAIL" "Tests failed"
+    print_status "FAIL" "Unit tests failed"
     exit 1
 fi
 

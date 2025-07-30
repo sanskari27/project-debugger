@@ -1,6 +1,6 @@
 {
     "name": "debugger-core",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A TypeScript library for tracking and debugging web applications. Supports both npm package and CDN usage.",
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",
@@ -30,7 +30,7 @@
         "type-check": "tsc --noEmit",
         "test": "jest --detectOpenHandles",
         "test:watch": "jest --watch",
-        "test:npm": "./test/npm-tests/run-all-tests.sh",
+        "test:npm": "./tests/npm-tests/run-all-tests.sh",
         "test:publish": "./scripts/test-publish.sh",
         "publish:npm": "./scripts/publish.sh",
         "prepare": "npm run build"
