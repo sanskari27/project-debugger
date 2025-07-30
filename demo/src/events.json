@@ -1,0 +1,3794 @@
+[
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 601
+        },
+        "timestamp": 1753902575062
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 601
+        },
+        "timestamp": 1753902575062
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 819
+        },
+        "timestamp": 1753902575163
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 819
+        },
+        "timestamp": 1753902575163
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 758
+        },
+        "timestamp": 1753902575264
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 758
+        },
+        "timestamp": 1753902575265
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 745
+        },
+        "timestamp": 1753902575365
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 745
+        },
+        "timestamp": 1753902575365
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 683
+        },
+        "timestamp": 1753902575467
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 683
+        },
+        "timestamp": 1753902575467
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 663
+        },
+        "timestamp": 1753902575569
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 663
+        },
+        "timestamp": 1753902575569
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 759
+        },
+        "timestamp": 1753902575669
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 759
+        },
+        "timestamp": 1753902575670
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 520
+        },
+        "timestamp": 1753902575770
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 520
+        },
+        "timestamp": 1753902575771
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 395,
+                    "y": 284,
+                    "id": 135,
+                    "timeOffset": 0
+                }
+            ]
+        },
+        "timestamp": 1753902575848
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 395,
+                    "y": 284,
+                    "id": 135,
+                    "timeOffset": 0
+                }
+            ]
+        },
+        "timestamp": 1753902575848
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1452
+        },
+        "timestamp": 1753902575870
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1452
+        },
+        "timestamp": 1753902575871
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1916
+        },
+        "timestamp": 1753902575970
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1916
+        },
+        "timestamp": 1753902575971
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1766
+        },
+        "timestamp": 1753902576304
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1766
+        },
+        "timestamp": 1753902576304
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 395,
+                    "y": 286,
+                    "id": 181,
+                    "timeOffset": -430
+                },
+                {
+                    "x": 394,
+                    "y": 286,
+                    "id": 181,
+                    "timeOffset": -287
+                },
+                {
+                    "x": 394,
+                    "y": 286,
+                    "id": 181,
+                    "timeOffset": -53
+                }
+            ]
+        },
+        "timestamp": 1753902576348
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 395,
+                    "y": 286,
+                    "id": 181,
+                    "timeOffset": -431
+                },
+                {
+                    "x": 394,
+                    "y": 286,
+                    "id": 181,
+                    "timeOffset": -288
+                },
+                {
+                    "x": 394,
+                    "y": 286,
+                    "id": 181,
+                    "timeOffset": -54
+                }
+            ]
+        },
+        "timestamp": 1753902576349
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 0
+        },
+        "timestamp": 1753902576404
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 0
+        },
+        "timestamp": 1753902576404
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 394,
+                    "y": 286,
+                    "id": 143,
+                    "timeOffset": -374
+                },
+                {
+                    "x": 394,
+                    "y": 285,
+                    "id": 143,
+                    "timeOffset": -23
+                }
+            ]
+        },
+        "timestamp": 1753902576848
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 394,
+                    "y": 286,
+                    "id": 143,
+                    "timeOffset": -376
+                },
+                {
+                    "x": 394,
+                    "y": 285,
+                    "id": 143,
+                    "timeOffset": -25
+                }
+            ]
+        },
+        "timestamp": 1753902576850
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 10
+        },
+        "timestamp": 1753902576854
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 10
+        },
+        "timestamp": 1753902576854
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1916
+        },
+        "timestamp": 1753902576955
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1916
+        },
+        "timestamp": 1753902576955
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 402,
+                    "y": 277,
+                    "id": 135,
+                    "timeOffset": -455
+                }
+            ]
+        },
+        "timestamp": 1753902577349
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 402,
+                    "y": 277,
+                    "id": 135,
+                    "timeOffset": -457
+                }
+            ]
+        },
+        "timestamp": 1753902577351
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 402,
+                    "y": 275,
+                    "id": 181,
+                    "timeOffset": -214
+                },
+                {
+                    "x": 403,
+                    "y": 286,
+                    "id": 181,
+                    "timeOffset": -144
+                },
+                {
+                    "x": 402,
+                    "y": 287,
+                    "id": 181,
+                    "timeOffset": -84
+                },
+                {
+                    "x": 402,
+                    "y": 287,
+                    "id": 181,
+                    "timeOffset": -2
+                }
+            ]
+        },
+        "timestamp": 1753902577850
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 402,
+                    "y": 275,
+                    "id": 181,
+                    "timeOffset": -216
+                },
+                {
+                    "x": 403,
+                    "y": 286,
+                    "id": 181,
+                    "timeOffset": -146
+                },
+                {
+                    "x": 402,
+                    "y": 287,
+                    "id": 181,
+                    "timeOffset": -86
+                },
+                {
+                    "x": 402,
+                    "y": 287,
+                    "id": 181,
+                    "timeOffset": -4
+                }
+            ]
+        },
+        "timestamp": 1753902577852
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1821
+        },
+        "timestamp": 1753902578071
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1821
+        },
+        "timestamp": 1753902578071
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 594
+        },
+        "timestamp": 1753902578171
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 594
+        },
+        "timestamp": 1753902578172
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 0
+        },
+        "timestamp": 1753902578271
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 0
+        },
+        "timestamp": 1753902578273
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 401,
+                    "y": 288,
+                    "id": 181,
+                    "timeOffset": -446
+                },
+                {
+                    "x": 401,
+                    "y": 288,
+                    "id": 143,
+                    "timeOffset": -3
+                }
+            ]
+        },
+        "timestamp": 1753902578352
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 401,
+                    "y": 288,
+                    "id": 181,
+                    "timeOffset": -447
+                },
+                {
+                    "x": 401,
+                    "y": 288,
+                    "id": 143,
+                    "timeOffset": -4
+                }
+            ]
+        },
+        "timestamp": 1753902578353
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 68
+        },
+        "timestamp": 1753902578373
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 68
+        },
+        "timestamp": 1753902578373
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 465
+        },
+        "timestamp": 1753902578473
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 465
+        },
+        "timestamp": 1753902578474
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 462
+        },
+        "timestamp": 1753902578589
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 462
+        },
+        "timestamp": 1753902578589
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 138
+        },
+        "timestamp": 1753902578690
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 138
+        },
+        "timestamp": 1753902578691
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 528
+        },
+        "timestamp": 1753902578791
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 528
+        },
+        "timestamp": 1753902578791
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 401,
+                    "y": 289,
+                    "id": 135,
+                    "timeOffset": -452
+                }
+            ]
+        },
+        "timestamp": 1753902578853
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 401,
+                    "y": 289,
+                    "id": 135,
+                    "timeOffset": -453
+                }
+            ]
+        },
+        "timestamp": 1753902578854
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 645
+        },
+        "timestamp": 1753902578892
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 645
+        },
+        "timestamp": 1753902578892
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 632
+        },
+        "timestamp": 1753902578993
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 632
+        },
+        "timestamp": 1753902578994
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 633
+        },
+        "timestamp": 1753902579157
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 633
+        },
+        "timestamp": 1753902579157
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 784
+        },
+        "timestamp": 1753902579259
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 784
+        },
+        "timestamp": 1753902579259
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 787
+        },
+        "timestamp": 1753902579437
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 787
+        },
+        "timestamp": 1753902579438
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 401,
+                    "y": 289,
+                    "id": 154,
+                    "timeOffset": 0
+                }
+            ]
+        },
+        "timestamp": 1753902579506
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 401,
+                    "y": 289,
+                    "id": 154,
+                    "timeOffset": 0
+                }
+            ]
+        },
+        "timestamp": 1753902579507
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 837
+        },
+        "timestamp": 1753902579538
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 837
+        },
+        "timestamp": 1753902579539
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 708
+        },
+        "timestamp": 1753902579638
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 708
+        },
+        "timestamp": 1753902579639
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 386
+        },
+        "timestamp": 1753902579739
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 386
+        },
+        "timestamp": 1753902579739
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 467
+        },
+        "timestamp": 1753902579840
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 467
+        },
+        "timestamp": 1753902579840
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 502
+        },
+        "timestamp": 1753902579940
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 502
+        },
+        "timestamp": 1753902579941
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 400,
+                    "y": 289,
+                    "id": 154,
+                    "timeOffset": -401
+                }
+            ]
+        },
+        "timestamp": 1753902580007
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 400,
+                    "y": 289,
+                    "id": 154,
+                    "timeOffset": -401
+                }
+            ]
+        },
+        "timestamp": 1753902580007
+    },
+    {
+        "type": 4,
+        "data": {
+            "href": "http://localhost:5173/",
+            "width": 647,
+            "height": 958
+        },
+        "timestamp": 1753902570037
+    },
+    {
+        "type": 2,
+        "data": {
+            "node": {
+                "type": 0,
+                "childNodes": [
+                    {
+                        "type": 1,
+                        "name": "html",
+                        "publicId": "",
+                        "systemId": "",
+                        "id": 2
+                    },
+                    {
+                        "type": 2,
+                        "tagName": "html",
+                        "attributes": {
+                            "lang": "en"
+                        },
+                        "childNodes": [
+                            {
+                                "type": 2,
+                                "tagName": "head",
+                                "attributes": {},
+                                "childNodes": [
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "id": 5
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "script",
+                                        "attributes": {
+                                            "type": "module"
+                                        },
+                                        "childNodes": [
+                                            {
+                                                "type": 3,
+                                                "textContent": "SCRIPT_PLACEHOLDER",
+                                                "id": 7
+                                            }
+                                        ],
+                                        "id": 6
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n\n    ",
+                                        "id": 8
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "script",
+                                        "attributes": {
+                                            "type": "module",
+                                            "src": "http://localhost:5173/@vite/client"
+                                        },
+                                        "childNodes": [],
+                                        "id": 9
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n\n    ",
+                                        "id": 10
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "meta",
+                                        "attributes": {
+                                            "charset": "UTF-8"
+                                        },
+                                        "childNodes": [],
+                                        "id": 11
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "id": 12
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "link",
+                                        "attributes": {
+                                            "rel": "icon",
+                                            "type": "image/svg+xml",
+                                            "href": "http://localhost:5173/vite.svg"
+                                        },
+                                        "childNodes": [],
+                                        "id": 13
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "id": 14
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "meta",
+                                        "attributes": {
+                                            "name": "viewport",
+                                            "content": "width=device-width, initial-scale=1.0"
+                                        },
+                                        "childNodes": [],
+                                        "id": 15
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "id": 16
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "title",
+                                        "attributes": {},
+                                        "childNodes": [
+                                            {
+                                                "type": 3,
+                                                "textContent": "Vite + React + TS",
+                                                "id": 18
+                                            }
+                                        ],
+                                        "id": 17
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n  ",
+                                        "id": 19
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "style",
+                                        "attributes": {
+                                            "type": "text/css",
+                                            "data-vite-dev-id": "/Users/sanskar/Code/project-debugger/example-core/src/index.css"
+                                        },
+                                        "childNodes": [
+                                            {
+                                                "type": 3,
+                                                "textContent": ":root { font-family: system-ui, Avenir, Helvetica, Arial, sans-serif; line-height: 1.5; font-weight: 400; color-scheme: light dark; color: rgba(255, 255, 255, 0.87); font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; }a { font-weight: 500; color: rgb(100, 108, 255); text-decoration: inherit; }a:hover { color: rgb(83, 91, 242); }body { margin: 0px; min-height: 100vh; }h1 { font-size: 3.2em; line-height: 1.1; }button { border-radius: 8px; border: 1px solid transparent; padding: 0.6em 1.2em; font-size: 1em; font-weight: 500; font-family: inherit; background-color: rgb(26, 26, 26); cursor: pointer; transition: border-color 0.25s; }button:hover { border-color: rgb(100, 108, 255); }button:focus, button:focus-visible { outline: -webkit-focus-ring-color auto 4px; }.main-container { min-height: 100vh; min-width: 100vw; }.main-container:nth-child(2) { background-color: rgb(116, 56, 56); }.main-container:nth-child(3) { background-color: rgb(37, 67, 92); }@media (prefers-color-scheme: light) {\n  :root { color: rgb(33, 53, 71); background-color: rgb(255, 255, 255); }\n  a:hover { color: rgb(116, 123, 255); }\n  button { background-color: rgb(249, 249, 249); }\n}",
+                                                "isStyle": true,
+                                                "id": 21
+                                            }
+                                        ],
+                                        "id": 20
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "style",
+                                        "attributes": {
+                                            "type": "text/css",
+                                            "data-vite-dev-id": "/Users/sanskar/Code/project-debugger/example-core/src/App.css"
+                                        },
+                                        "childNodes": [
+                                            {
+                                                "type": 3,
+                                                "textContent": "#root { text-align: center; }.logo { height: 6em; padding: 1.5em; will-change: filter; transition: filter 300ms; }.logo:hover { filter: drop-shadow(rgba(100, 108, 255, 0.667) 0px 0px 2em); }.logo.react:hover { filter: drop-shadow(rgba(97, 218, 251, 0.667) 0px 0px 2em); }@keyframes logo-spin { \n  0% { transform: rotate(0deg); }\n  100% { transform: rotate(360deg); }\n}@media (prefers-reduced-motion: no-preference) {\n  a:nth-of-type(2) .logo { animation: 20s linear 0s infinite normal none running logo-spin; }\n}.card { padding: 2em; }.read-the-docs { color: rgb(136, 136, 136); }",
+                                                "isStyle": true,
+                                                "id": 23
+                                            }
+                                        ],
+                                        "id": 22
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "style",
+                                        "attributes": {},
+                                        "childNodes": [
+                                            {
+                                                "type": 3,
+                                                "textContent": "@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2\") format(\"woff2\"); unicode-range: U+900-97F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB; }@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiGyp8kv8JHgFVrLPTufntAKPY.woff2\") format(\"woff2\"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtA.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2\") format(\"woff2\"); unicode-range: U+900-97F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2\") format(\"woff2\"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 300; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Light.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 400; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Regular.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Thin.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Medium.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 600; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-SemiBold.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 700; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Bold.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+                                                "isStyle": true,
+                                                "id": 25
+                                            }
+                                        ],
+                                        "id": 24
+                                    }
+                                ],
+                                "id": 4
+                            },
+                            {
+                                "type": 3,
+                                "textContent": "\n  ",
+                                "id": 26
+                            },
+                            {
+                                "type": 2,
+                                "tagName": "body",
+                                "attributes": {},
+                                "childNodes": [
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "id": 28
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "div",
+                                        "attributes": {
+                                            "id": "root"
+                                        },
+                                        "childNodes": [
+                                            {
+                                                "type": 2,
+                                                "tagName": "div",
+                                                "attributes": {
+                                                    "class": "main-container"
+                                                },
+                                                "childNodes": [
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {},
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "a",
+                                                                "attributes": {
+                                                                    "href": "https://vite.dev/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "img",
+                                                                        "attributes": {
+                                                                            "class": "logo",
+                                                                            "alt": "Vite logo",
+                                                                            "src": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%20aria-hidden='true'%20role='img'%20class='iconify%20iconify--logos'%20width='31.88'%20height='32'%20preserveAspectRatio='xMidYMid%20meet'%20viewBox='0%200%20256%20257'%3e%3cdefs%3e%3clinearGradient%20id='IconifyId1813088fe1fbc01fb466'%20x1='-.828%25'%20x2='57.636%25'%20y1='7.652%25'%20y2='78.411%25'%3e%3cstop%20offset='0%25'%20stop-color='%2341D1FF'%3e%3c/stop%3e%3cstop%20offset='100%25'%20stop-color='%23BD34FE'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient%20id='IconifyId1813088fe1fbc01fb467'%20x1='43.376%25'%20x2='50.316%25'%20y1='2.242%25'%20y2='89.03%25'%3e%3cstop%20offset='0%25'%20stop-color='%23FFEA83'%3e%3c/stop%3e%3cstop%20offset='8.333%25'%20stop-color='%23FFDD35'%3e%3c/stop%3e%3cstop%20offset='100%25'%20stop-color='%23FFA800'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3cpath%20fill='url(%23IconifyId1813088fe1fbc01fb466)'%20d='M255.153%2037.938L134.897%20252.976c-2.483%204.44-8.862%204.466-11.382.048L.875%2037.958c-2.746-4.814%201.371-10.646%206.827-9.67l120.385%2021.517a6.537%206.537%200%200%200%202.322-.004l117.867-21.483c5.438-.991%209.574%204.796%206.877%209.62Z'%3e%3c/path%3e%3cpath%20fill='url(%23IconifyId1813088fe1fbc01fb467)'%20d='M185.432.063L96.44%2017.501a3.268%203.268%200%200%200-2.634%203.014l-5.474%2092.456a3.268%203.268%200%200%200%203.997%203.378l24.777-5.718c2.318-.535%204.413%201.507%203.936%203.838l-7.361%2036.047c-.495%202.426%201.782%204.5%204.151%203.78l15.304-4.649c2.372-.72%204.652%201.36%204.15%203.788l-11.698%2056.621c-.732%203.542%203.979%205.473%205.943%202.437l1.313-2.028l72.516-144.72c1.215-2.423-.88-5.186-3.54-4.672l-25.505%204.922c-2.396.462-4.435-1.77-3.759-4.114l16.646-57.705c.677-2.35-1.37-4.583-3.769-4.113Z'%3e%3c/path%3e%3c/svg%3e"
+                                                                        },
+                                                                        "childNodes": [],
+                                                                        "id": 33
+                                                                    }
+                                                                ],
+                                                                "id": 32
+                                                            },
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "a",
+                                                                "attributes": {
+                                                                    "href": "https://react.dev/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "img",
+                                                                        "attributes": {
+                                                                            "class": "logo react",
+                                                                            "alt": "React logo",
+                                                                            "src": "http://localhost:5173/src/assets/react.svg"
+                                                                        },
+                                                                        "childNodes": [],
+                                                                        "id": 35
+                                                                    }
+                                                                ],
+                                                                "id": 34
+                                                            }
+                                                        ],
+                                                        "id": 31
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "h1",
+                                                        "attributes": {},
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 3,
+                                                                "textContent": "Vite + React",
+                                                                "id": 37
+                                                            }
+                                                        ],
+                                                        "id": 36
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {
+                                                            "class": "card"
+                                                        },
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "button",
+                                                                "attributes": {},
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "count is ",
+                                                                        "id": 40
+                                                                    },
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "0",
+                                                                        "id": 41
+                                                                    }
+                                                                ],
+                                                                "id": 39
+                                                            },
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "p",
+                                                                "attributes": {},
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "Edit ",
+                                                                        "id": 43
+                                                                    },
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "code",
+                                                                        "attributes": {},
+                                                                        "childNodes": [
+                                                                            {
+                                                                                "type": 3,
+                                                                                "textContent": "src/App.tsx",
+                                                                                "id": 45
+                                                                            }
+                                                                        ],
+                                                                        "id": 44
+                                                                    },
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": " and save to test HMR",
+                                                                        "id": 46
+                                                                    }
+                                                                ],
+                                                                "id": 42
+                                                            }
+                                                        ],
+                                                        "id": 38
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "p",
+                                                        "attributes": {
+                                                            "class": "read-the-docs"
+                                                        },
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 3,
+                                                                "textContent": "Click on the Vite and React logos to learn more",
+                                                                "id": 48
+                                                            }
+                                                        ],
+                                                        "id": 47
+                                                    }
+                                                ],
+                                                "id": 30
+                                            },
+                                            {
+                                                "type": 2,
+                                                "tagName": "div",
+                                                "attributes": {
+                                                    "class": "main-container"
+                                                },
+                                                "childNodes": [
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {},
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "a",
+                                                                "attributes": {
+                                                                    "href": "https://vite.dev/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "img",
+                                                                        "attributes": {
+                                                                            "class": "logo",
+                                                                            "alt": "Vite logo",
+                                                                            "src": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%20aria-hidden='true'%20role='img'%20class='iconify%20iconify--logos'%20width='31.88'%20height='32'%20preserveAspectRatio='xMidYMid%20meet'%20viewBox='0%200%20256%20257'%3e%3cdefs%3e%3clinearGradient%20id='IconifyId1813088fe1fbc01fb466'%20x1='-.828%25'%20x2='57.636%25'%20y1='7.652%25'%20y2='78.411%25'%3e%3cstop%20offset='0%25'%20stop-color='%2341D1FF'%3e%3c/stop%3e%3cstop%20offset='100%25'%20stop-color='%23BD34FE'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient%20id='IconifyId1813088fe1fbc01fb467'%20x1='43.376%25'%20x2='50.316%25'%20y1='2.242%25'%20y2='89.03%25'%3e%3cstop%20offset='0%25'%20stop-color='%23FFEA83'%3e%3c/stop%3e%3cstop%20offset='8.333%25'%20stop-color='%23FFDD35'%3e%3c/stop%3e%3cstop%20offset='100%25'%20stop-color='%23FFA800'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3cpath%20fill='url(%23IconifyId1813088fe1fbc01fb466)'%20d='M255.153%2037.938L134.897%20252.976c-2.483%204.44-8.862%204.466-11.382.048L.875%2037.958c-2.746-4.814%201.371-10.646%206.827-9.67l120.385%2021.517a6.537%206.537%200%200%200%202.322-.004l117.867-21.483c5.438-.991%209.574%204.796%206.877%209.62Z'%3e%3c/path%3e%3cpath%20fill='url(%23IconifyId1813088fe1fbc01fb467)'%20d='M185.432.063L96.44%2017.501a3.268%203.268%200%200%200-2.634%203.014l-5.474%2092.456a3.268%203.268%200%200%200%203.997%203.378l24.777-5.718c2.318-.535%204.413%201.507%203.936%203.838l-7.361%2036.047c-.495%202.426%201.782%204.5%204.151%203.78l15.304-4.649c2.372-.72%204.652%201.36%204.15%203.788l-11.698%2056.621c-.732%203.542%203.979%205.473%205.943%202.437l1.313-2.028l72.516-144.72c1.215-2.423-.88-5.186-3.54-4.672l-25.505%204.922c-2.396.462-4.435-1.77-3.759-4.114l16.646-57.705c.677-2.35-1.37-4.583-3.769-4.113Z'%3e%3c/path%3e%3c/svg%3e"
+                                                                        },
+                                                                        "childNodes": [],
+                                                                        "id": 52
+                                                                    }
+                                                                ],
+                                                                "id": 51
+                                                            },
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "a",
+                                                                "attributes": {
+                                                                    "href": "https://react.dev/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "img",
+                                                                        "attributes": {
+                                                                            "class": "logo react",
+                                                                            "alt": "React logo",
+                                                                            "src": "http://localhost:5173/src/assets/react.svg"
+                                                                        },
+                                                                        "childNodes": [],
+                                                                        "id": 54
+                                                                    }
+                                                                ],
+                                                                "id": 53
+                                                            }
+                                                        ],
+                                                        "id": 50
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "h1",
+                                                        "attributes": {},
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 3,
+                                                                "textContent": "Vite + React",
+                                                                "id": 56
+                                                            }
+                                                        ],
+                                                        "id": 55
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {
+                                                            "class": "card"
+                                                        },
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "button",
+                                                                "attributes": {},
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "count is ",
+                                                                        "id": 59
+                                                                    },
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "0",
+                                                                        "id": 60
+                                                                    }
+                                                                ],
+                                                                "id": 58
+                                                            },
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "p",
+                                                                "attributes": {},
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "Edit ",
+                                                                        "id": 62
+                                                                    },
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "code",
+                                                                        "attributes": {},
+                                                                        "childNodes": [
+                                                                            {
+                                                                                "type": 3,
+                                                                                "textContent": "src/App.tsx",
+                                                                                "id": 64
+                                                                            }
+                                                                        ],
+                                                                        "id": 63
+                                                                    },
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": " and save to test HMR",
+                                                                        "id": 65
+                                                                    }
+                                                                ],
+                                                                "id": 61
+                                                            }
+                                                        ],
+                                                        "id": 57
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "p",
+                                                        "attributes": {
+                                                            "class": "read-the-docs"
+                                                        },
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 3,
+                                                                "textContent": "Click on the Vite and React logos to learn more",
+                                                                "id": 67
+                                                            }
+                                                        ],
+                                                        "id": 66
+                                                    }
+                                                ],
+                                                "id": 49
+                                            },
+                                            {
+                                                "type": 2,
+                                                "tagName": "div",
+                                                "attributes": {
+                                                    "class": "main-container"
+                                                },
+                                                "childNodes": [
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {},
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "a",
+                                                                "attributes": {
+                                                                    "href": "https://vite.dev/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "img",
+                                                                        "attributes": {
+                                                                            "class": "logo",
+                                                                            "alt": "Vite logo",
+                                                                            "src": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%20aria-hidden='true'%20role='img'%20class='iconify%20iconify--logos'%20width='31.88'%20height='32'%20preserveAspectRatio='xMidYMid%20meet'%20viewBox='0%200%20256%20257'%3e%3cdefs%3e%3clinearGradient%20id='IconifyId1813088fe1fbc01fb466'%20x1='-.828%25'%20x2='57.636%25'%20y1='7.652%25'%20y2='78.411%25'%3e%3cstop%20offset='0%25'%20stop-color='%2341D1FF'%3e%3c/stop%3e%3cstop%20offset='100%25'%20stop-color='%23BD34FE'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient%20id='IconifyId1813088fe1fbc01fb467'%20x1='43.376%25'%20x2='50.316%25'%20y1='2.242%25'%20y2='89.03%25'%3e%3cstop%20offset='0%25'%20stop-color='%23FFEA83'%3e%3c/stop%3e%3cstop%20offset='8.333%25'%20stop-color='%23FFDD35'%3e%3c/stop%3e%3cstop%20offset='100%25'%20stop-color='%23FFA800'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3cpath%20fill='url(%23IconifyId1813088fe1fbc01fb466)'%20d='M255.153%2037.938L134.897%20252.976c-2.483%204.44-8.862%204.466-11.382.048L.875%2037.958c-2.746-4.814%201.371-10.646%206.827-9.67l120.385%2021.517a6.537%206.537%200%200%200%202.322-.004l117.867-21.483c5.438-.991%209.574%204.796%206.877%209.62Z'%3e%3c/path%3e%3cpath%20fill='url(%23IconifyId1813088fe1fbc01fb467)'%20d='M185.432.063L96.44%2017.501a3.268%203.268%200%200%200-2.634%203.014l-5.474%2092.456a3.268%203.268%200%200%200%203.997%203.378l24.777-5.718c2.318-.535%204.413%201.507%203.936%203.838l-7.361%2036.047c-.495%202.426%201.782%204.5%204.151%203.78l15.304-4.649c2.372-.72%204.652%201.36%204.15%203.788l-11.698%2056.621c-.732%203.542%203.979%205.473%205.943%202.437l1.313-2.028l72.516-144.72c1.215-2.423-.88-5.186-3.54-4.672l-25.505%204.922c-2.396.462-4.435-1.77-3.759-4.114l16.646-57.705c.677-2.35-1.37-4.583-3.769-4.113Z'%3e%3c/path%3e%3c/svg%3e"
+                                                                        },
+                                                                        "childNodes": [],
+                                                                        "id": 71
+                                                                    }
+                                                                ],
+                                                                "id": 70
+                                                            },
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "a",
+                                                                "attributes": {
+                                                                    "href": "https://react.dev/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "img",
+                                                                        "attributes": {
+                                                                            "class": "logo react",
+                                                                            "alt": "React logo",
+                                                                            "src": "http://localhost:5173/src/assets/react.svg"
+                                                                        },
+                                                                        "childNodes": [],
+                                                                        "id": 73
+                                                                    }
+                                                                ],
+                                                                "id": 72
+                                                            }
+                                                        ],
+                                                        "id": 69
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "h1",
+                                                        "attributes": {},
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 3,
+                                                                "textContent": "Vite + React",
+                                                                "id": 75
+                                                            }
+                                                        ],
+                                                        "id": 74
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {
+                                                            "class": "card"
+                                                        },
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "button",
+                                                                "attributes": {},
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "count is ",
+                                                                        "id": 78
+                                                                    },
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "0",
+                                                                        "id": 79
+                                                                    }
+                                                                ],
+                                                                "id": 77
+                                                            },
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "p",
+                                                                "attributes": {},
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "Edit ",
+                                                                        "id": 81
+                                                                    },
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "code",
+                                                                        "attributes": {},
+                                                                        "childNodes": [
+                                                                            {
+                                                                                "type": 3,
+                                                                                "textContent": "src/App.tsx",
+                                                                                "id": 83
+                                                                            }
+                                                                        ],
+                                                                        "id": 82
+                                                                    },
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": " and save to test HMR",
+                                                                        "id": 84
+                                                                    }
+                                                                ],
+                                                                "id": 80
+                                                            }
+                                                        ],
+                                                        "id": 76
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "p",
+                                                        "attributes": {
+                                                            "class": "read-the-docs"
+                                                        },
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 3,
+                                                                "textContent": "Click on the Vite and React logos to learn more",
+                                                                "id": 86
+                                                            }
+                                                        ],
+                                                        "id": 85
+                                                    }
+                                                ],
+                                                "id": 68
+                                            }
+                                        ],
+                                        "id": 29
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "id": 87
+                                    },
+                                    {
+                                        "type": 5,
+                                        "textContent": " <script src=\"../../dist/core.min.js\"></script> ",
+                                        "id": 88
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "id": 89
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "script",
+                                        "attributes": {
+                                            "type": "module",
+                                            "src": "http://localhost:5173/src/main.tsx?t=1753902561811"
+                                        },
+                                        "childNodes": [],
+                                        "id": 90
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n  \n\n",
+                                        "id": 91
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "div",
+                                        "attributes": {
+                                            "id": "fs_div_all",
+                                            "style": "all:initial;"
+                                        },
+                                        "childNodes": [
+                                            {
+                                                "type": 3,
+                                                "textContent": "\n        ",
+                                                "id": 93,
+                                                "isShadow": true
+                                            },
+                                            {
+                                                "type": 2,
+                                                "tagName": "div",
+                                                "attributes": {
+                                                    "class": "mainExtCont",
+                                                    "style": "position:fixed; top:20px;right:20px; z-index:2147483647;box-shadow: 1px -1px 17px #888888;border-radius:10px;"
+                                                },
+                                                "childNodes": [
+                                                    {
+                                                        "type": 3,
+                                                        "textContent": "\n            ",
+                                                        "id": 95
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "link",
+                                                        "attributes": {
+                                                            "href": "https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700&display=swap",
+                                                            "rel": "stylesheet"
+                                                        },
+                                                        "childNodes": [],
+                                                        "id": 96
+                                                    },
+                                                    {
+                                                        "type": 3,
+                                                        "textContent": "\n            ",
+                                                        "id": 97
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {
+                                                            "class": "mainExtSubCont"
+                                                        },
+                                                        "childNodes": [],
+                                                        "id": 98
+                                                    },
+                                                    {
+                                                        "type": 3,
+                                                        "textContent": "\n        ",
+                                                        "id": 99
+                                                    }
+                                                ],
+                                                "id": 94,
+                                                "isShadow": true
+                                            },
+                                            {
+                                                "type": 3,
+                                                "textContent": "\n        ",
+                                                "id": 100,
+                                                "isShadow": true
+                                            },
+                                            {
+                                                "type": 2,
+                                                "tagName": "div",
+                                                "attributes": {
+                                                    "class": "extOtherPopups"
+                                                },
+                                                "childNodes": [],
+                                                "id": 101,
+                                                "isShadow": true
+                                            },
+                                            {
+                                                "type": 3,
+                                                "textContent": "\n        ",
+                                                "id": 102,
+                                                "isShadow": true
+                                            },
+                                            {
+                                                "type": 2,
+                                                "tagName": "style",
+                                                "attributes": {},
+                                                "childNodes": [
+                                                    {
+                                                        "type": 3,
+                                                        "textContent": "@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2\") format(\"woff2\"); unicode-range: U+900-97F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB; }@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiGyp8kv8JHgFVrLPTufntAKPY.woff2\") format(\"woff2\"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtA.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2\") format(\"woff2\"); unicode-range: U+900-97F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2\") format(\"woff2\"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 300; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Light.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 400; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Regular.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Thin.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Medium.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 600; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-SemiBold.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 700; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Bold.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }.extOtherPopups { margin: 0px; padding: 0px; position: fixed; top: 240px; right: 0px; z-index: 2147483647; }[event_type=\"click\"] { cursor: pointer; }",
+                                                        "isStyle": true,
+                                                        "id": 104
+                                                    }
+                                                ],
+                                                "id": 103,
+                                                "isShadow": true
+                                            },
+                                            {
+                                                "type": 3,
+                                                "textContent": "\n        ",
+                                                "id": 105,
+                                                "isShadow": true
+                                            }
+                                        ],
+                                        "id": 92,
+                                        "isShadowHost": true
+                                    }
+                                ],
+                                "id": 27
+                            }
+                        ],
+                        "id": 3
+                    }
+                ],
+                "id": 1
+            },
+            "initialOffset": {
+                "left": 0,
+                "top": 0
+            }
+        },
+        "timestamp": 1753902570042
+    },
+    {
+        "type": 4,
+        "data": {
+            "href": "http://localhost:5173/",
+            "width": 647,
+            "height": 958
+        },
+        "timestamp": 1753902570044
+    },
+    {
+        "type": 2,
+        "data": {
+            "node": {
+                "type": 0,
+                "childNodes": [
+                    {
+                        "type": 1,
+                        "name": "html",
+                        "publicId": "",
+                        "systemId": "",
+                        "rootId": 106,
+                        "id": 107
+                    },
+                    {
+                        "type": 2,
+                        "tagName": "html",
+                        "attributes": {
+                            "lang": "en"
+                        },
+                        "childNodes": [
+                            {
+                                "type": 2,
+                                "tagName": "head",
+                                "attributes": {},
+                                "childNodes": [
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "rootId": 106,
+                                        "id": 110
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "script",
+                                        "attributes": {
+                                            "type": "module"
+                                        },
+                                        "childNodes": [
+                                            {
+                                                "type": 3,
+                                                "textContent": "SCRIPT_PLACEHOLDER",
+                                                "rootId": 106,
+                                                "id": 112
+                                            }
+                                        ],
+                                        "rootId": 106,
+                                        "id": 111
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n\n    ",
+                                        "rootId": 106,
+                                        "id": 113
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "script",
+                                        "attributes": {
+                                            "type": "module",
+                                            "src": "http://localhost:5173/@vite/client"
+                                        },
+                                        "childNodes": [],
+                                        "rootId": 106,
+                                        "id": 114
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n\n    ",
+                                        "rootId": 106,
+                                        "id": 115
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "meta",
+                                        "attributes": {
+                                            "charset": "UTF-8"
+                                        },
+                                        "childNodes": [],
+                                        "rootId": 106,
+                                        "id": 116
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "rootId": 106,
+                                        "id": 117
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "link",
+                                        "attributes": {
+                                            "rel": "icon",
+                                            "type": "image/svg+xml",
+                                            "href": "http://localhost:5173/vite.svg"
+                                        },
+                                        "childNodes": [],
+                                        "rootId": 106,
+                                        "id": 118
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "rootId": 106,
+                                        "id": 119
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "meta",
+                                        "attributes": {
+                                            "name": "viewport",
+                                            "content": "width=device-width, initial-scale=1.0"
+                                        },
+                                        "childNodes": [],
+                                        "rootId": 106,
+                                        "id": 120
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "rootId": 106,
+                                        "id": 121
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "title",
+                                        "attributes": {},
+                                        "childNodes": [
+                                            {
+                                                "type": 3,
+                                                "textContent": "Vite + React + TS",
+                                                "rootId": 106,
+                                                "id": 123
+                                            }
+                                        ],
+                                        "rootId": 106,
+                                        "id": 122
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n  ",
+                                        "rootId": 106,
+                                        "id": 124
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "style",
+                                        "attributes": {
+                                            "type": "text/css",
+                                            "data-vite-dev-id": "/Users/sanskar/Code/project-debugger/example-core/src/index.css"
+                                        },
+                                        "childNodes": [
+                                            {
+                                                "type": 3,
+                                                "textContent": ":root { font-family: system-ui, Avenir, Helvetica, Arial, sans-serif; line-height: 1.5; font-weight: 400; color-scheme: light dark; color: rgba(255, 255, 255, 0.87); font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; }a { font-weight: 500; color: rgb(100, 108, 255); text-decoration: inherit; }a:hover { color: rgb(83, 91, 242); }body { margin: 0px; min-height: 100vh; }h1 { font-size: 3.2em; line-height: 1.1; }button { border-radius: 8px; border: 1px solid transparent; padding: 0.6em 1.2em; font-size: 1em; font-weight: 500; font-family: inherit; background-color: rgb(26, 26, 26); cursor: pointer; transition: border-color 0.25s; }button:hover { border-color: rgb(100, 108, 255); }button:focus, button:focus-visible { outline: -webkit-focus-ring-color auto 4px; }.main-container { min-height: 100vh; min-width: 100vw; }.main-container:nth-child(2) { background-color: rgb(116, 56, 56); }.main-container:nth-child(3) { background-color: rgb(37, 67, 92); }@media (prefers-color-scheme: light) {\n  :root { color: rgb(33, 53, 71); background-color: rgb(255, 255, 255); }\n  a:hover { color: rgb(116, 123, 255); }\n  button { background-color: rgb(249, 249, 249); }\n}",
+                                                "isStyle": true,
+                                                "rootId": 106,
+                                                "id": 126
+                                            }
+                                        ],
+                                        "rootId": 106,
+                                        "id": 125
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "style",
+                                        "attributes": {
+                                            "type": "text/css",
+                                            "data-vite-dev-id": "/Users/sanskar/Code/project-debugger/example-core/src/App.css"
+                                        },
+                                        "childNodes": [
+                                            {
+                                                "type": 3,
+                                                "textContent": "#root { text-align: center; }.logo { height: 6em; padding: 1.5em; will-change: filter; transition: filter 300ms; }.logo:hover { filter: drop-shadow(rgba(100, 108, 255, 0.667) 0px 0px 2em); }.logo.react:hover { filter: drop-shadow(rgba(97, 218, 251, 0.667) 0px 0px 2em); }@keyframes logo-spin { \n  0% { transform: rotate(0deg); }\n  100% { transform: rotate(360deg); }\n}@media (prefers-reduced-motion: no-preference) {\n  a:nth-of-type(2) .logo { animation: 20s linear 0s infinite normal none running logo-spin; }\n}.card { padding: 2em; }.read-the-docs { color: rgb(136, 136, 136); }",
+                                                "isStyle": true,
+                                                "rootId": 106,
+                                                "id": 128
+                                            }
+                                        ],
+                                        "rootId": 106,
+                                        "id": 127
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "style",
+                                        "attributes": {},
+                                        "childNodes": [
+                                            {
+                                                "type": 3,
+                                                "textContent": "@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2\") format(\"woff2\"); unicode-range: U+900-97F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB; }@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiGyp8kv8JHgFVrLPTufntAKPY.woff2\") format(\"woff2\"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtA.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2\") format(\"woff2\"); unicode-range: U+900-97F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2\") format(\"woff2\"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 300; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Light.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 400; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Regular.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Thin.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Medium.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 600; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-SemiBold.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 700; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Bold.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+                                                "isStyle": true,
+                                                "rootId": 106,
+                                                "id": 130
+                                            }
+                                        ],
+                                        "rootId": 106,
+                                        "id": 129
+                                    }
+                                ],
+                                "rootId": 106,
+                                "id": 109
+                            },
+                            {
+                                "type": 3,
+                                "textContent": "\n  ",
+                                "rootId": 106,
+                                "id": 131
+                            },
+                            {
+                                "type": 2,
+                                "tagName": "body",
+                                "attributes": {},
+                                "childNodes": [
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "rootId": 106,
+                                        "id": 133
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "div",
+                                        "attributes": {
+                                            "id": "root"
+                                        },
+                                        "childNodes": [
+                                            {
+                                                "type": 2,
+                                                "tagName": "div",
+                                                "attributes": {
+                                                    "class": "main-container"
+                                                },
+                                                "childNodes": [
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {},
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "a",
+                                                                "attributes": {
+                                                                    "href": "https://vite.dev/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "img",
+                                                                        "attributes": {
+                                                                            "class": "logo",
+                                                                            "alt": "Vite logo",
+                                                                            "src": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%20aria-hidden='true'%20role='img'%20class='iconify%20iconify--logos'%20width='31.88'%20height='32'%20preserveAspectRatio='xMidYMid%20meet'%20viewBox='0%200%20256%20257'%3e%3cdefs%3e%3clinearGradient%20id='IconifyId1813088fe1fbc01fb466'%20x1='-.828%25'%20x2='57.636%25'%20y1='7.652%25'%20y2='78.411%25'%3e%3cstop%20offset='0%25'%20stop-color='%2341D1FF'%3e%3c/stop%3e%3cstop%20offset='100%25'%20stop-color='%23BD34FE'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient%20id='IconifyId1813088fe1fbc01fb467'%20x1='43.376%25'%20x2='50.316%25'%20y1='2.242%25'%20y2='89.03%25'%3e%3cstop%20offset='0%25'%20stop-color='%23FFEA83'%3e%3c/stop%3e%3cstop%20offset='8.333%25'%20stop-color='%23FFDD35'%3e%3c/stop%3e%3cstop%20offset='100%25'%20stop-color='%23FFA800'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3cpath%20fill='url(%23IconifyId1813088fe1fbc01fb466)'%20d='M255.153%2037.938L134.897%20252.976c-2.483%204.44-8.862%204.466-11.382.048L.875%2037.958c-2.746-4.814%201.371-10.646%206.827-9.67l120.385%2021.517a6.537%206.537%200%200%200%202.322-.004l117.867-21.483c5.438-.991%209.574%204.796%206.877%209.62Z'%3e%3c/path%3e%3cpath%20fill='url(%23IconifyId1813088fe1fbc01fb467)'%20d='M185.432.063L96.44%2017.501a3.268%203.268%200%200%200-2.634%203.014l-5.474%2092.456a3.268%203.268%200%200%200%203.997%203.378l24.777-5.718c2.318-.535%204.413%201.507%203.936%203.838l-7.361%2036.047c-.495%202.426%201.782%204.5%204.151%203.78l15.304-4.649c2.372-.72%204.652%201.36%204.15%203.788l-11.698%2056.621c-.732%203.542%203.979%205.473%205.943%202.437l1.313-2.028l72.516-144.72c1.215-2.423-.88-5.186-3.54-4.672l-25.505%204.922c-2.396.462-4.435-1.77-3.759-4.114l16.646-57.705c.677-2.35-1.37-4.583-3.769-4.113Z'%3e%3c/path%3e%3c/svg%3e"
+                                                                        },
+                                                                        "childNodes": [],
+                                                                        "rootId": 106,
+                                                                        "id": 138
+                                                                    }
+                                                                ],
+                                                                "rootId": 106,
+                                                                "id": 137
+                                                            },
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "a",
+                                                                "attributes": {
+                                                                    "href": "https://react.dev/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "img",
+                                                                        "attributes": {
+                                                                            "class": "logo react",
+                                                                            "alt": "React logo",
+                                                                            "src": "http://localhost:5173/src/assets/react.svg"
+                                                                        },
+                                                                        "childNodes": [],
+                                                                        "rootId": 106,
+                                                                        "id": 140
+                                                                    }
+                                                                ],
+                                                                "rootId": 106,
+                                                                "id": 139
+                                                            }
+                                                        ],
+                                                        "rootId": 106,
+                                                        "id": 136
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "h1",
+                                                        "attributes": {},
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 3,
+                                                                "textContent": "Vite + React",
+                                                                "rootId": 106,
+                                                                "id": 142
+                                                            }
+                                                        ],
+                                                        "rootId": 106,
+                                                        "id": 141
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {
+                                                            "class": "card"
+                                                        },
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "button",
+                                                                "attributes": {},
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "count is ",
+                                                                        "rootId": 106,
+                                                                        "id": 145
+                                                                    },
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "0",
+                                                                        "rootId": 106,
+                                                                        "id": 146
+                                                                    }
+                                                                ],
+                                                                "rootId": 106,
+                                                                "id": 144
+                                                            },
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "p",
+                                                                "attributes": {},
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "Edit ",
+                                                                        "rootId": 106,
+                                                                        "id": 148
+                                                                    },
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "code",
+                                                                        "attributes": {},
+                                                                        "childNodes": [
+                                                                            {
+                                                                                "type": 3,
+                                                                                "textContent": "src/App.tsx",
+                                                                                "rootId": 106,
+                                                                                "id": 150
+                                                                            }
+                                                                        ],
+                                                                        "rootId": 106,
+                                                                        "id": 149
+                                                                    },
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": " and save to test HMR",
+                                                                        "rootId": 106,
+                                                                        "id": 151
+                                                                    }
+                                                                ],
+                                                                "rootId": 106,
+                                                                "id": 147
+                                                            }
+                                                        ],
+                                                        "rootId": 106,
+                                                        "id": 143
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "p",
+                                                        "attributes": {
+                                                            "class": "read-the-docs"
+                                                        },
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 3,
+                                                                "textContent": "Click on the Vite and React logos to learn more",
+                                                                "rootId": 106,
+                                                                "id": 153
+                                                            }
+                                                        ],
+                                                        "rootId": 106,
+                                                        "id": 152
+                                                    }
+                                                ],
+                                                "rootId": 106,
+                                                "id": 135
+                                            },
+                                            {
+                                                "type": 2,
+                                                "tagName": "div",
+                                                "attributes": {
+                                                    "class": "main-container"
+                                                },
+                                                "childNodes": [
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {},
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "a",
+                                                                "attributes": {
+                                                                    "href": "https://vite.dev/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "img",
+                                                                        "attributes": {
+                                                                            "class": "logo",
+                                                                            "alt": "Vite logo",
+                                                                            "src": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%20aria-hidden='true'%20role='img'%20class='iconify%20iconify--logos'%20width='31.88'%20height='32'%20preserveAspectRatio='xMidYMid%20meet'%20viewBox='0%200%20256%20257'%3e%3cdefs%3e%3clinearGradient%20id='IconifyId1813088fe1fbc01fb466'%20x1='-.828%25'%20x2='57.636%25'%20y1='7.652%25'%20y2='78.411%25'%3e%3cstop%20offset='0%25'%20stop-color='%2341D1FF'%3e%3c/stop%3e%3cstop%20offset='100%25'%20stop-color='%23BD34FE'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient%20id='IconifyId1813088fe1fbc01fb467'%20x1='43.376%25'%20x2='50.316%25'%20y1='2.242%25'%20y2='89.03%25'%3e%3cstop%20offset='0%25'%20stop-color='%23FFEA83'%3e%3c/stop%3e%3cstop%20offset='8.333%25'%20stop-color='%23FFDD35'%3e%3c/stop%3e%3cstop%20offset='100%25'%20stop-color='%23FFA800'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3cpath%20fill='url(%23IconifyId1813088fe1fbc01fb466)'%20d='M255.153%2037.938L134.897%20252.976c-2.483%204.44-8.862%204.466-11.382.048L.875%2037.958c-2.746-4.814%201.371-10.646%206.827-9.67l120.385%2021.517a6.537%206.537%200%200%200%202.322-.004l117.867-21.483c5.438-.991%209.574%204.796%206.877%209.62Z'%3e%3c/path%3e%3cpath%20fill='url(%23IconifyId1813088fe1fbc01fb467)'%20d='M185.432.063L96.44%2017.501a3.268%203.268%200%200%200-2.634%203.014l-5.474%2092.456a3.268%203.268%200%200%200%203.997%203.378l24.777-5.718c2.318-.535%204.413%201.507%203.936%203.838l-7.361%2036.047c-.495%202.426%201.782%204.5%204.151%203.78l15.304-4.649c2.372-.72%204.652%201.36%204.15%203.788l-11.698%2056.621c-.732%203.542%203.979%205.473%205.943%202.437l1.313-2.028l72.516-144.72c1.215-2.423-.88-5.186-3.54-4.672l-25.505%204.922c-2.396.462-4.435-1.77-3.759-4.114l16.646-57.705c.677-2.35-1.37-4.583-3.769-4.113Z'%3e%3c/path%3e%3c/svg%3e"
+                                                                        },
+                                                                        "childNodes": [],
+                                                                        "rootId": 106,
+                                                                        "id": 157
+                                                                    }
+                                                                ],
+                                                                "rootId": 106,
+                                                                "id": 156
+                                                            },
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "a",
+                                                                "attributes": {
+                                                                    "href": "https://react.dev/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "img",
+                                                                        "attributes": {
+                                                                            "class": "logo react",
+                                                                            "alt": "React logo",
+                                                                            "src": "http://localhost:5173/src/assets/react.svg"
+                                                                        },
+                                                                        "childNodes": [],
+                                                                        "rootId": 106,
+                                                                        "id": 159
+                                                                    }
+                                                                ],
+                                                                "rootId": 106,
+                                                                "id": 158
+                                                            }
+                                                        ],
+                                                        "rootId": 106,
+                                                        "id": 155
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "h1",
+                                                        "attributes": {},
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 3,
+                                                                "textContent": "Vite + React",
+                                                                "rootId": 106,
+                                                                "id": 161
+                                                            }
+                                                        ],
+                                                        "rootId": 106,
+                                                        "id": 160
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {
+                                                            "class": "card"
+                                                        },
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "button",
+                                                                "attributes": {},
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "count is ",
+                                                                        "rootId": 106,
+                                                                        "id": 164
+                                                                    },
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "0",
+                                                                        "rootId": 106,
+                                                                        "id": 165
+                                                                    }
+                                                                ],
+                                                                "rootId": 106,
+                                                                "id": 163
+                                                            },
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "p",
+                                                                "attributes": {},
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "Edit ",
+                                                                        "rootId": 106,
+                                                                        "id": 167
+                                                                    },
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "code",
+                                                                        "attributes": {},
+                                                                        "childNodes": [
+                                                                            {
+                                                                                "type": 3,
+                                                                                "textContent": "src/App.tsx",
+                                                                                "rootId": 106,
+                                                                                "id": 169
+                                                                            }
+                                                                        ],
+                                                                        "rootId": 106,
+                                                                        "id": 168
+                                                                    },
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": " and save to test HMR",
+                                                                        "rootId": 106,
+                                                                        "id": 170
+                                                                    }
+                                                                ],
+                                                                "rootId": 106,
+                                                                "id": 166
+                                                            }
+                                                        ],
+                                                        "rootId": 106,
+                                                        "id": 162
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "p",
+                                                        "attributes": {
+                                                            "class": "read-the-docs"
+                                                        },
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 3,
+                                                                "textContent": "Click on the Vite and React logos to learn more",
+                                                                "rootId": 106,
+                                                                "id": 172
+                                                            }
+                                                        ],
+                                                        "rootId": 106,
+                                                        "id": 171
+                                                    }
+                                                ],
+                                                "rootId": 106,
+                                                "id": 154
+                                            },
+                                            {
+                                                "type": 2,
+                                                "tagName": "div",
+                                                "attributes": {
+                                                    "class": "main-container"
+                                                },
+                                                "childNodes": [
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {},
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "a",
+                                                                "attributes": {
+                                                                    "href": "https://vite.dev/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "img",
+                                                                        "attributes": {
+                                                                            "class": "logo",
+                                                                            "alt": "Vite logo",
+                                                                            "src": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%20aria-hidden='true'%20role='img'%20class='iconify%20iconify--logos'%20width='31.88'%20height='32'%20preserveAspectRatio='xMidYMid%20meet'%20viewBox='0%200%20256%20257'%3e%3cdefs%3e%3clinearGradient%20id='IconifyId1813088fe1fbc01fb466'%20x1='-.828%25'%20x2='57.636%25'%20y1='7.652%25'%20y2='78.411%25'%3e%3cstop%20offset='0%25'%20stop-color='%2341D1FF'%3e%3c/stop%3e%3cstop%20offset='100%25'%20stop-color='%23BD34FE'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient%20id='IconifyId1813088fe1fbc01fb467'%20x1='43.376%25'%20x2='50.316%25'%20y1='2.242%25'%20y2='89.03%25'%3e%3cstop%20offset='0%25'%20stop-color='%23FFEA83'%3e%3c/stop%3e%3cstop%20offset='8.333%25'%20stop-color='%23FFDD35'%3e%3c/stop%3e%3cstop%20offset='100%25'%20stop-color='%23FFA800'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3cpath%20fill='url(%23IconifyId1813088fe1fbc01fb466)'%20d='M255.153%2037.938L134.897%20252.976c-2.483%204.44-8.862%204.466-11.382.048L.875%2037.958c-2.746-4.814%201.371-10.646%206.827-9.67l120.385%2021.517a6.537%206.537%200%200%200%202.322-.004l117.867-21.483c5.438-.991%209.574%204.796%206.877%209.62Z'%3e%3c/path%3e%3cpath%20fill='url(%23IconifyId1813088fe1fbc01fb467)'%20d='M185.432.063L96.44%2017.501a3.268%203.268%200%200%200-2.634%203.014l-5.474%2092.456a3.268%203.268%200%200%200%203.997%203.378l24.777-5.718c2.318-.535%204.413%201.507%203.936%203.838l-7.361%2036.047c-.495%202.426%201.782%204.5%204.151%203.78l15.304-4.649c2.372-.72%204.652%201.36%204.15%203.788l-11.698%2056.621c-.732%203.542%203.979%205.473%205.943%202.437l1.313-2.028l72.516-144.72c1.215-2.423-.88-5.186-3.54-4.672l-25.505%204.922c-2.396.462-4.435-1.77-3.759-4.114l16.646-57.705c.677-2.35-1.37-4.583-3.769-4.113Z'%3e%3c/path%3e%3c/svg%3e"
+                                                                        },
+                                                                        "childNodes": [],
+                                                                        "rootId": 106,
+                                                                        "id": 176
+                                                                    }
+                                                                ],
+                                                                "rootId": 106,
+                                                                "id": 175
+                                                            },
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "a",
+                                                                "attributes": {
+                                                                    "href": "https://react.dev/",
+                                                                    "target": "_blank"
+                                                                },
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "img",
+                                                                        "attributes": {
+                                                                            "class": "logo react",
+                                                                            "alt": "React logo",
+                                                                            "src": "http://localhost:5173/src/assets/react.svg"
+                                                                        },
+                                                                        "childNodes": [],
+                                                                        "rootId": 106,
+                                                                        "id": 178
+                                                                    }
+                                                                ],
+                                                                "rootId": 106,
+                                                                "id": 177
+                                                            }
+                                                        ],
+                                                        "rootId": 106,
+                                                        "id": 174
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "h1",
+                                                        "attributes": {},
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 3,
+                                                                "textContent": "Vite + React",
+                                                                "rootId": 106,
+                                                                "id": 180
+                                                            }
+                                                        ],
+                                                        "rootId": 106,
+                                                        "id": 179
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {
+                                                            "class": "card"
+                                                        },
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "button",
+                                                                "attributes": {},
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "count is ",
+                                                                        "rootId": 106,
+                                                                        "id": 183
+                                                                    },
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "0",
+                                                                        "rootId": 106,
+                                                                        "id": 184
+                                                                    }
+                                                                ],
+                                                                "rootId": 106,
+                                                                "id": 182
+                                                            },
+                                                            {
+                                                                "type": 2,
+                                                                "tagName": "p",
+                                                                "attributes": {},
+                                                                "childNodes": [
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": "Edit ",
+                                                                        "rootId": 106,
+                                                                        "id": 186
+                                                                    },
+                                                                    {
+                                                                        "type": 2,
+                                                                        "tagName": "code",
+                                                                        "attributes": {},
+                                                                        "childNodes": [
+                                                                            {
+                                                                                "type": 3,
+                                                                                "textContent": "src/App.tsx",
+                                                                                "rootId": 106,
+                                                                                "id": 188
+                                                                            }
+                                                                        ],
+                                                                        "rootId": 106,
+                                                                        "id": 187
+                                                                    },
+                                                                    {
+                                                                        "type": 3,
+                                                                        "textContent": " and save to test HMR",
+                                                                        "rootId": 106,
+                                                                        "id": 189
+                                                                    }
+                                                                ],
+                                                                "rootId": 106,
+                                                                "id": 185
+                                                            }
+                                                        ],
+                                                        "rootId": 106,
+                                                        "id": 181
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "p",
+                                                        "attributes": {
+                                                            "class": "read-the-docs"
+                                                        },
+                                                        "childNodes": [
+                                                            {
+                                                                "type": 3,
+                                                                "textContent": "Click on the Vite and React logos to learn more",
+                                                                "rootId": 106,
+                                                                "id": 191
+                                                            }
+                                                        ],
+                                                        "rootId": 106,
+                                                        "id": 190
+                                                    }
+                                                ],
+                                                "rootId": 106,
+                                                "id": 173
+                                            }
+                                        ],
+                                        "rootId": 106,
+                                        "id": 134
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "rootId": 106,
+                                        "id": 192
+                                    },
+                                    {
+                                        "type": 5,
+                                        "textContent": " <script src=\"../../dist/core.min.js\"></script> ",
+                                        "rootId": 106,
+                                        "id": 193
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n    ",
+                                        "rootId": 106,
+                                        "id": 194
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "script",
+                                        "attributes": {
+                                            "type": "module",
+                                            "src": "http://localhost:5173/src/main.tsx?t=1753902561811"
+                                        },
+                                        "childNodes": [],
+                                        "rootId": 106,
+                                        "id": 195
+                                    },
+                                    {
+                                        "type": 3,
+                                        "textContent": "\n  \n\n",
+                                        "rootId": 106,
+                                        "id": 196
+                                    },
+                                    {
+                                        "type": 2,
+                                        "tagName": "div",
+                                        "attributes": {
+                                            "id": "fs_div_all",
+                                            "style": "all:initial;"
+                                        },
+                                        "childNodes": [
+                                            {
+                                                "type": 3,
+                                                "textContent": "\n        ",
+                                                "rootId": 106,
+                                                "id": 198,
+                                                "isShadow": true
+                                            },
+                                            {
+                                                "type": 2,
+                                                "tagName": "div",
+                                                "attributes": {
+                                                    "class": "mainExtCont",
+                                                    "style": "position:fixed; top:20px;right:20px; z-index:2147483647;box-shadow: 1px -1px 17px #888888;border-radius:10px;"
+                                                },
+                                                "childNodes": [
+                                                    {
+                                                        "type": 3,
+                                                        "textContent": "\n            ",
+                                                        "rootId": 106,
+                                                        "id": 200
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "link",
+                                                        "attributes": {
+                                                            "href": "https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700&display=swap",
+                                                            "rel": "stylesheet"
+                                                        },
+                                                        "childNodes": [],
+                                                        "rootId": 106,
+                                                        "id": 201
+                                                    },
+                                                    {
+                                                        "type": 3,
+                                                        "textContent": "\n            ",
+                                                        "rootId": 106,
+                                                        "id": 202
+                                                    },
+                                                    {
+                                                        "type": 2,
+                                                        "tagName": "div",
+                                                        "attributes": {
+                                                            "class": "mainExtSubCont"
+                                                        },
+                                                        "childNodes": [],
+                                                        "rootId": 106,
+                                                        "id": 203
+                                                    },
+                                                    {
+                                                        "type": 3,
+                                                        "textContent": "\n        ",
+                                                        "rootId": 106,
+                                                        "id": 204
+                                                    }
+                                                ],
+                                                "rootId": 106,
+                                                "id": 199,
+                                                "isShadow": true
+                                            },
+                                            {
+                                                "type": 3,
+                                                "textContent": "\n        ",
+                                                "rootId": 106,
+                                                "id": 205,
+                                                "isShadow": true
+                                            },
+                                            {
+                                                "type": 2,
+                                                "tagName": "div",
+                                                "attributes": {
+                                                    "class": "extOtherPopups"
+                                                },
+                                                "childNodes": [],
+                                                "rootId": 106,
+                                                "id": 206,
+                                                "isShadow": true
+                                            },
+                                            {
+                                                "type": 3,
+                                                "textContent": "\n        ",
+                                                "rootId": 106,
+                                                "id": 207,
+                                                "isShadow": true
+                                            },
+                                            {
+                                                "type": 2,
+                                                "tagName": "style",
+                                                "attributes": {},
+                                                "childNodes": [
+                                                    {
+                                                        "type": 3,
+                                                        "textContent": "@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2\") format(\"woff2\"); unicode-range: U+900-97F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB; }@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiGyp8kv8JHgFVrLPTufntAKPY.woff2\") format(\"woff2\"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtA.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2\") format(\"woff2\"); unicode-range: U+900-97F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2\") format(\"woff2\"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 300; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Light.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 400; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Regular.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 100; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Thin.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 500; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Medium.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 600; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-SemiBold.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }@font-face { font-family: Poppins; font-style: normal; font-weight: 700; src: url(\"http://localhost:5173/chrome-extension://adikhbfjdbjkhelbdnffogkobkekkkej/assets/poppins/Poppins-Bold.ttf\") format(\"truetype\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }.extOtherPopups { margin: 0px; padding: 0px; position: fixed; top: 240px; right: 0px; z-index: 2147483647; }[event_type=\"click\"] { cursor: pointer; }",
+                                                        "isStyle": true,
+                                                        "rootId": 106,
+                                                        "id": 209
+                                                    }
+                                                ],
+                                                "rootId": 106,
+                                                "id": 208,
+                                                "isShadow": true
+                                            },
+                                            {
+                                                "type": 3,
+                                                "textContent": "\n        ",
+                                                "rootId": 106,
+                                                "id": 210,
+                                                "isShadow": true
+                                            }
+                                        ],
+                                        "rootId": 106,
+                                        "id": 197,
+                                        "isShadowHost": true
+                                    }
+                                ],
+                                "rootId": 106,
+                                "id": 132
+                            }
+                        ],
+                        "rootId": 106,
+                        "id": 108
+                    }
+                ],
+                "id": 106
+            },
+            "initialOffset": {
+                "left": 0,
+                "top": 0
+            }
+        },
+        "timestamp": 1753902570045
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 252,
+                    "y": 1,
+                    "id": 138,
+                    "timeOffset": 0
+                }
+            ]
+        },
+        "timestamp": 1753902570115
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 252,
+                    "y": 1,
+                    "id": 138,
+                    "timeOffset": 0
+                }
+            ]
+        },
+        "timestamp": 1753902570116
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 407,
+                    "y": 36,
+                    "id": 140,
+                    "timeOffset": -451
+                },
+                {
+                    "x": 533,
+                    "y": 61,
+                    "id": 136,
+                    "timeOffset": -399
+                },
+                {
+                    "x": 568,
+                    "y": 71,
+                    "id": 136,
+                    "timeOffset": -347
+                },
+                {
+                    "x": 583,
+                    "y": 84,
+                    "id": 136,
+                    "timeOffset": -291
+                },
+                {
+                    "x": 590,
+                    "y": 98,
+                    "id": 136,
+                    "timeOffset": -241
+                },
+                {
+                    "x": 618,
+                    "y": 142,
+                    "id": 136,
+                    "timeOffset": -189
+                },
+                {
+                    "x": 637,
+                    "y": 156,
+                    "id": 135,
+                    "timeOffset": -134
+                }
+            ]
+        },
+        "timestamp": 1753902570616
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 432,
+                    "y": 41,
+                    "id": 140,
+                    "timeOffset": -445
+                },
+                {
+                    "x": 543,
+                    "y": 62,
+                    "id": 136,
+                    "timeOffset": -392
+                },
+                {
+                    "x": 572,
+                    "y": 74,
+                    "id": 136,
+                    "timeOffset": -340
+                },
+                {
+                    "x": 584,
+                    "y": 85,
+                    "id": 136,
+                    "timeOffset": -284
+                },
+                {
+                    "x": 598,
+                    "y": 112,
+                    "id": 136,
+                    "timeOffset": -227
+                },
+                {
+                    "x": 624,
+                    "y": 147,
+                    "id": 136,
+                    "timeOffset": -175
+                },
+                {
+                    "x": 642,
+                    "y": 160,
+                    "id": 135,
+                    "timeOffset": -119
+                }
+            ]
+        },
+        "timestamp": 1753902570617
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 636,
+                    "y": 177,
+                    "id": 135,
+                    "timeOffset": 0
+                }
+            ]
+        },
+        "timestamp": 1753902571324
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 636,
+                    "y": 177,
+                    "id": 135,
+                    "timeOffset": 0
+                }
+            ]
+        },
+        "timestamp": 1753902571324
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 590,
+                    "y": 205,
+                    "id": 141,
+                    "timeOffset": -444
+                },
+                {
+                    "x": 544,
+                    "y": 235,
+                    "id": 141,
+                    "timeOffset": -393
+                },
+                {
+                    "x": 521,
+                    "y": 252,
+                    "id": 135,
+                    "timeOffset": -341
+                },
+                {
+                    "x": 506,
+                    "y": 264,
+                    "id": 135,
+                    "timeOffset": -286
+                },
+                {
+                    "x": 499,
+                    "y": 270,
+                    "id": 135,
+                    "timeOffset": -235
+                },
+                {
+                    "x": 480,
+                    "y": 284,
+                    "id": 143,
+                    "timeOffset": -183
+                },
+                {
+                    "x": 460,
+                    "y": 296,
+                    "id": 143,
+                    "timeOffset": -128
+                }
+            ]
+        },
+        "timestamp": 1753902571825
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 590,
+                    "y": 205,
+                    "id": 141,
+                    "timeOffset": -445
+                },
+                {
+                    "x": 544,
+                    "y": 235,
+                    "id": 141,
+                    "timeOffset": -393
+                },
+                {
+                    "x": 521,
+                    "y": 252,
+                    "id": 135,
+                    "timeOffset": -342
+                },
+                {
+                    "x": 506,
+                    "y": 264,
+                    "id": 135,
+                    "timeOffset": -287
+                },
+                {
+                    "x": 499,
+                    "y": 270,
+                    "id": 135,
+                    "timeOffset": -236
+                },
+                {
+                    "x": 480,
+                    "y": 284,
+                    "id": 143,
+                    "timeOffset": -184
+                },
+                {
+                    "x": 460,
+                    "y": 296,
+                    "id": 143,
+                    "timeOffset": -129
+                }
+            ]
+        },
+        "timestamp": 1753902571826
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 458,
+                    "y": 296,
+                    "id": 143,
+                    "timeOffset": -398
+                },
+                {
+                    "x": 452,
+                    "y": 291,
+                    "id": 143,
+                    "timeOffset": -344
+                },
+                {
+                    "x": 413,
+                    "y": 276,
+                    "id": 143,
+                    "timeOffset": -293
+                },
+                {
+                    "x": 395,
+                    "y": 271,
+                    "id": 135,
+                    "timeOffset": -241
+                },
+                {
+                    "x": 394,
+                    "y": 271,
+                    "id": 135,
+                    "timeOffset": -172
+                },
+                {
+                    "x": 394,
+                    "y": 270,
+                    "id": 135,
+                    "timeOffset": -118
+                },
+                {
+                    "x": 393,
+                    "y": 269,
+                    "id": 135,
+                    "timeOffset": -52
+                },
+                {
+                    "x": 392,
+                    "y": 269,
+                    "id": 135,
+                    "timeOffset": 0
+                }
+            ]
+        },
+        "timestamp": 1753902572326
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 458,
+                    "y": 296,
+                    "id": 143,
+                    "timeOffset": -398
+                },
+                {
+                    "x": 452,
+                    "y": 291,
+                    "id": 143,
+                    "timeOffset": -343
+                },
+                {
+                    "x": 413,
+                    "y": 276,
+                    "id": 143,
+                    "timeOffset": -293
+                },
+                {
+                    "x": 395,
+                    "y": 271,
+                    "id": 135,
+                    "timeOffset": -241
+                },
+                {
+                    "x": 394,
+                    "y": 271,
+                    "id": 135,
+                    "timeOffset": -172
+                },
+                {
+                    "x": 394,
+                    "y": 270,
+                    "id": 135,
+                    "timeOffset": -118
+                },
+                {
+                    "x": 393,
+                    "y": 269,
+                    "id": 135,
+                    "timeOffset": -52
+                },
+                {
+                    "x": 392,
+                    "y": 269,
+                    "id": 135,
+                    "timeOffset": 0
+                }
+            ]
+        },
+        "timestamp": 1753902572326
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 11
+        },
+        "timestamp": 1753902572822
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 11
+        },
+        "timestamp": 1753902572822
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 388,
+                    "y": 269,
+                    "id": 135,
+                    "timeOffset": -449
+                }
+            ]
+        },
+        "timestamp": 1753902572827
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 388,
+                    "y": 269,
+                    "id": 135,
+                    "timeOffset": -449
+                }
+            ]
+        },
+        "timestamp": 1753902572827
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1916
+        },
+        "timestamp": 1753902572923
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1916
+        },
+        "timestamp": 1753902572923
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 385,
+                    "y": 269,
+                    "id": 143,
+                    "timeOffset": -484
+                },
+                {
+                    "x": 390,
+                    "y": 274,
+                    "id": 154,
+                    "timeOffset": -420
+                },
+                {
+                    "x": 391,
+                    "y": 276,
+                    "id": 181,
+                    "timeOffset": -3
+                }
+            ]
+        },
+        "timestamp": 1753902573327
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 385,
+                    "y": 269,
+                    "id": 143,
+                    "timeOffset": -485
+                },
+                {
+                    "x": 390,
+                    "y": 274,
+                    "id": 154,
+                    "timeOffset": -421
+                },
+                {
+                    "x": 391,
+                    "y": 276,
+                    "id": 181,
+                    "timeOffset": -4
+                }
+            ]
+        },
+        "timestamp": 1753902573328
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1780
+        },
+        "timestamp": 1753902573556
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1780
+        },
+        "timestamp": 1753902573556
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 0
+        },
+        "timestamp": 1753902573656
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 0
+        },
+        "timestamp": 1753902573656
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 391,
+                    "y": 276,
+                    "id": 181,
+                    "timeOffset": -445
+                },
+                {
+                    "x": 391,
+                    "y": 276,
+                    "id": 181,
+                    "timeOffset": -325
+                },
+                {
+                    "x": 391,
+                    "y": 276,
+                    "id": 178,
+                    "timeOffset": -262
+                }
+            ]
+        },
+        "timestamp": 1753902573828
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 391,
+                    "y": 276,
+                    "id": 181,
+                    "timeOffset": -445
+                },
+                {
+                    "x": 391,
+                    "y": 276,
+                    "id": 181,
+                    "timeOffset": -325
+                },
+                {
+                    "x": 391,
+                    "y": 276,
+                    "id": 178,
+                    "timeOffset": -262
+                }
+            ]
+        },
+        "timestamp": 1753902573828
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 143
+        },
+        "timestamp": 1753902574070
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 143
+        },
+        "timestamp": 1753902574071
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1916
+        },
+        "timestamp": 1753902574171
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1916
+        },
+        "timestamp": 1753902574172
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 391,
+                    "y": 275,
+                    "id": 143,
+                    "timeOffset": -253
+                },
+                {
+                    "x": 394,
+                    "y": 283,
+                    "id": 154,
+                    "timeOffset": -197
+                }
+            ]
+        },
+        "timestamp": 1753902574329
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 391,
+                    "y": 275,
+                    "id": 143,
+                    "timeOffset": -253
+                },
+                {
+                    "x": 394,
+                    "y": 283,
+                    "id": 154,
+                    "timeOffset": -197
+                }
+            ]
+        },
+        "timestamp": 1753902574329
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1855
+        },
+        "timestamp": 1753902574454
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1855
+        },
+        "timestamp": 1753902574455
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1115
+        },
+        "timestamp": 1753902574555
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 1115
+        },
+        "timestamp": 1753902574556
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 416
+        },
+        "timestamp": 1753902574657
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 416
+        },
+        "timestamp": 1753902574657
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 217
+        },
+        "timestamp": 1753902574758
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 217
+        },
+        "timestamp": 1753902574758
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 394,
+                    "y": 283,
+                    "id": 181,
+                    "timeOffset": -419
+                },
+                {
+                    "x": 394,
+                    "y": 283,
+                    "id": 135,
+                    "timeOffset": -29
+                }
+            ]
+        },
+        "timestamp": 1753902574830
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 394,
+                    "y": 283,
+                    "id": 181,
+                    "timeOffset": -419
+                },
+                {
+                    "x": 394,
+                    "y": 283,
+                    "id": 135,
+                    "timeOffset": -29
+                }
+            ]
+        },
+        "timestamp": 1753902574830
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 840
+        },
+        "timestamp": 1753902574859
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 840
+        },
+        "timestamp": 1753902574860
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 882
+        },
+        "timestamp": 1753902574961
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 882
+        },
+        "timestamp": 1753902574961
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 507
+        },
+        "timestamp": 1753902580053
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 507
+        },
+        "timestamp": 1753902580054
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 512
+        },
+        "timestamp": 1753902580155
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 512
+        },
+        "timestamp": 1753902580156
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 592
+        },
+        "timestamp": 1753902580256
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 592
+        },
+        "timestamp": 1753902580256
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 593
+        },
+        "timestamp": 1753902580358
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 593
+        },
+        "timestamp": 1753902580358
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 380
+        },
+        "timestamp": 1753902580460
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 380
+        },
+        "timestamp": 1753902580460
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 400,
+                    "y": 289,
+                    "id": 135,
+                    "timeOffset": -352
+                },
+                {
+                    "x": 400,
+                    "y": 289,
+                    "id": 135,
+                    "timeOffset": -300
+                },
+                {
+                    "x": 400,
+                    "y": 289,
+                    "id": 135,
+                    "timeOffset": -158
+                }
+            ]
+        },
+        "timestamp": 1753902580508
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 400,
+                    "y": 289,
+                    "id": 135,
+                    "timeOffset": -352
+                },
+                {
+                    "x": 400,
+                    "y": 289,
+                    "id": 135,
+                    "timeOffset": -300
+                },
+                {
+                    "x": 400,
+                    "y": 289,
+                    "id": 135,
+                    "timeOffset": -158
+                }
+            ]
+        },
+        "timestamp": 1753902580508
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 720
+        },
+        "timestamp": 1753902580560
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 3,
+            "id": 106,
+            "x": 0,
+            "y": 720
+        },
+        "timestamp": 1753902580561
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 400,
+                    "y": 289,
+                    "id": 135,
+                    "timeOffset": -477
+                },
+                {
+                    "x": 434,
+                    "y": 286,
+                    "id": 159,
+                    "timeOffset": -423
+                },
+                {
+                    "x": 539,
+                    "y": 264,
+                    "id": 155,
+                    "timeOffset": -372
+                }
+            ]
+        },
+        "timestamp": 1753902581009
+    },
+    {
+        "type": 3,
+        "data": {
+            "source": 1,
+            "positions": [
+                {
+                    "x": 400,
+                    "y": 289,
+                    "id": 135,
+                    "timeOffset": -477
+                },
+                {
+                    "x": 434,
+                    "y": 286,
+                    "id": 159,
+                    "timeOffset": -423
+                },
+                {
+                    "x": 539,
+                    "y": 264,
+                    "id": 155,
+                    "timeOffset": -372
+                }
+            ]
+        },
+        "timestamp": 1753902581009
+    }
+]

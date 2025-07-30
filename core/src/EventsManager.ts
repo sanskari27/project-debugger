@@ -45,7 +45,15 @@ export default class EventsManager {
   }
 
   static on<K extends keyof EventMap>(event: K, e: EventMap[K]) {
-    EventsManager.instance?.events[event].push(e);
+    if (e.type === 'dom-update') {
+      EventsManager.instance?.events[event].push(e.event);
+    } else if (e.type === 'api-call') {
+      if (e.url !== EventsManager.eventsAPIUrl) {
+        EventsManager.instance?.events[event].push(e);
+      }
+    } else {
+      EventsManager.instance?.events[event].push(e);
+    }
   }
 
   // Cleanup method to clear interval and reset instance

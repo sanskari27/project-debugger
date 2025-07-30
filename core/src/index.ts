@@ -1,4 +1,5 @@
 // Main entry point for the Core library
+import { startRecording } from './events/DomRecorder';
 import EventsManager from './EventsManager';
 import { getSessionId } from './lib/tracking';
 
@@ -16,6 +17,7 @@ async function init(opts: {
 
   await import('./events/ApiPatch');
   await import('./events/ConsolePatch');
+
   EventsManager.getInstance().init({
     trackingVariables: {
       rid: '',
@@ -27,6 +29,7 @@ async function init(opts: {
     },
     eventsAPIUrl: opts.eventsAPIUrl || '',
   });
+  startRecording();
 }
 
 export { init };
