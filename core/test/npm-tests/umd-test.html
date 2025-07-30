@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UMD/CDN Test - Project Debugger Core</title>
+    <style>
+      body {
+        font-family:
+          -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f5f5f5;
+      }
+      .test-container {
+        background: white;
+        border-radius: 8px;
+        padding: 20px;
+        margin: 20px 0;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+      .test-result {
+        padding: 10px;
+        margin: 10px 0;
+        border-radius: 4px;
+        font-weight: 500;
+      }
+      .success {
+        background-color: #d4edda;
+        color: #155724;
+        border: 1px solid #c3e6cb;
+      }
+      .error {
+        background-color: #f8d7da;
+        color: #721c24;
+        border: 1px solid #f5c6cb;
+      }
+      .info {
+        background-color: #d1ecf1;
+        color: #0c5460;
+        border: 1px solid #bee5eb;
+      }
+      button {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 4px;
+        cursor: pointer;
+        margin: 5px;
+      }
+      button:hover {
+        background-color: #0056b3;
+      }
+      pre {
+        background-color: #f8f9fa;
+        padding: 10px;
+        border-radius: 4px;
+        overflow-x: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>🧪 UMD/CDN Test - Project Debugger Core</h1>
+
+    <div class="test-container">
+      <h2>Test Results</h2>
+      <div id="test-results"></div>
+    </div>
+
+    <div class="test-container">
+      <h2>Manual Tests</h2>
+      <button onclick="testInitFunction()">Test Init Function</button>
+      <button onclick="testErrorHandling()">Test Error Handling</button>
+      <button onclick="testMinimalOptions()">Test Minimal Options</button>
+      <button onclick="clearResults()">Clear Results</button>
+    </div>
+
+    <div class="test-container">
+      <h2>Console Output</h2>
+      <pre id="console-output"></pre>
+    </div>
+
+    <script src="../dist/core.min.js"></script>
+    <script>
+      let testCount = 0;
+      let passedTests = 0;
+      const resultsContainer = document.getElementById('test-results');
+      const consoleOutput = document.getElementById('console-output');
+
+      // Capture console output
+      const originalConsole = {
+        log: console.log,
+        error: console.error,
+        warn: console.warn,
+      };
+
+      function captureConsole(type, ...args) {
+        const timestamp = new Date().toLocaleTimeString();
+        const message = args
+          .map(arg =>
+            typeof arg === 'object' ? JSON.stringify(arg, null, 2) : String(arg)
+          )
+          .join(' ');
+
+        consoleOutput.textContent += `[${timestamp}] ${type.toUpperCase()}: ${message}\n`;
+        consoleOutput.scrollTop = consoleOutput.scrollHeight;
+      }
+
+      console.log = (...args) => {
+        originalConsole.log(...args);
+        captureConsole('log', ...args);
+      };
+
+      console.error = (...args) => {
+        originalConsole.error(...args);
+        captureConsole('error', ...args);
+      };
+
+      console.warn = (...args) => {
+        originalConsole.warn(...args);
+        captureConsole('warn', ...args);
+      };
+
+      function addTestResult(testName, passed, details = '') {
+        testCount++;
+        if (passed) passedTests++;
+
+        const resultDiv = document.createElement('div');
+        resultDiv.className = `test-result ${passed ? 'success' : 'error'}`;
+        resultDiv.innerHTML = `
+                <strong>Test ${testCount}: ${testName}</strong><br>
+                ${passed ? '✅ PASSED' : '❌ FAILED'}<br>
+                ${details ? `<small>${details}</small>` : ''}
+            `;
+        resultsContainer.appendChild(resultDiv);
+      }
+
+      function addInfo(message) {
+        const infoDiv = document.createElement('div');
+        infoDiv.className = 'test-result info';
+        infoDiv.innerHTML = `<strong>ℹ️ ${message}</strong>`;
+        resultsContainer.appendChild(infoDiv);
+      }
+
+      // Auto-run tests when page loads
+      window.addEventListener('load', () => {
+        console.log('🧪 Starting UMD/CDN tests...');
+
+        // Test 1: Check if ProjectDebuggerCore is available
+        if (typeof ProjectDebuggerCore !== 'undefined') {
+          addTestResult('ProjectDebuggerCore global availability', true);
+        } else {
+          addTestResult('ProjectDebuggerCore global availability', false);
+          return;
+        }
+
+        // Test 2: Check if init function exists
+        if (typeof ProjectDebuggerCore.init === 'function') {
+          addTestResult('init function availability', true);
+        } else {
+          addTestResult('init function availability', false);
+          return;
+        }
+
+        // Test 3: Check function signature
+        const functionString = ProjectDebuggerCore.init.toString();
+        if (
+          functionString.includes('async') &&
+          functionString.includes('opts')
+        ) {
+          addTestResult('init function signature', true);
+        } else {
+          addTestResult(
+            'init function signature',
+            false,
+            `Function: ${functionString}`
+          );
+        }
+
+        // Test 4: Test error handling for missing required parameter
+        try {
+          ProjectDebuggerCore.init({});
+          addTestResult(
+            'Error handling for missing eventsAPIUrl',
+            false,
+            'Should have thrown error'
+          );
+        } catch (error) {
+          if (error.message.includes('eventsAPIUrl is required')) {
+            addTestResult('Error handling for missing eventsAPIUrl', true);
+          } else {
+            addTestResult(
+              'Error handling for missing eventsAPIUrl',
+              false,
+              `Unexpected error: ${error.message}`
+            );
+          }
+        }
+
+        // Test 5: Test with valid options
+        try {
+          ProjectDebuggerCore.init({
+            eventsAPIUrl: 'https://test.example.com/events',
+            sid: 'test-session',
+            uid: 'test-user',
+            channel: 'test',
+          });
+          addTestResult('Valid initialization', true);
+        } catch (error) {
+          addTestResult(
+            'Valid initialization',
+            false,
+            `Error: ${error.message}`
+          );
+        }
+
+        addInfo(`Tests completed: ${passedTests}/${testCount} passed`);
+      });
+
+      // Manual test functions
+      function testInitFunction() {
+        try {
+          ProjectDebuggerCore.init({
+            eventsAPIUrl: 'https://manual-test.example.com/events',
+            sid: 'manual-test-session',
+            uid: 'manual-test-user',
+            channel: 'manual-test',
+          });
+          addTestResult('Manual: Init function test', true);
+        } catch (error) {
+          addTestResult(
+            'Manual: Init function test',
+            false,
+            `Error: ${error.message}`
+          );
+        }
+      }
+
+      function testErrorHandling() {
+        try {
+          ProjectDebuggerCore.init({});
+          addTestResult(
+            'Manual: Error handling test',
+            false,
+            'Should have thrown error'
+          );
+        } catch (error) {
+          if (error.message.includes('eventsAPIUrl is required')) {
+            addTestResult('Manual: Error handling test', true);
+          } else {
+            addTestResult(
+              'Manual: Error handling test',
+              false,
+              `Unexpected error: ${error.message}`
+            );
+          }
+        }
+      }
+
+      function testMinimalOptions() {
+        try {
+          ProjectDebuggerCore.init({
+            eventsAPIUrl: 'https://minimal-test.example.com/events',
+          });
+          addTestResult('Manual: Minimal options test', true);
+        } catch (error) {
+          addTestResult(
+            'Manual: Minimal options test',
+            false,
+            `Error: ${error.message}`
+          );
+        }
+      }
+
+      function clearResults() {
+        resultsContainer.innerHTML = '';
+        consoleOutput.textContent = '';
+        testCount = 0;
+        passedTests = 0;
+      }
+    </script>
+  </body>
+</html>

@@ -1,181 +1,134 @@
-# Core
+# @project-debugger/core
 
-A TypeScript library that compiles to a single minified file for CDN deployment.
-
-## Features
-
-- 🚀 **TypeScript** - Written in TypeScript with full type support
-- 📦 **Single File Output** - Compiles to a single minified file for CDN deployment
-- 🛠️ **Modern Build** - Uses Rollup for efficient bundling
-- 🧪 **Testing** - Jest for unit testing
-- 📏 **Linting** - ESLint with TypeScript support
-- 💅 **Formatting** - Prettier for consistent code style
-- 📚 **Type Definitions** - Full TypeScript declaration files
+A TypeScript library for tracking and debugging web applications. Supports both npm package and CDN usage.
 
 ## Installation
 
+### As an npm package
+
 ```bash
-npm install core
+npm install @project-debugger/core
+```
+
+### Via CDN
+
+```html
+<script src="https://unpkg.com/@project-debugger/core/dist/core.min.js"></script>
 ```
 
 ## Usage
 
-### ES6 Modules
+### NPM Package Usage
 
 ```javascript
-import { Core, generateId, deepClone } from 'core';
+// ES6 modules
+import { init } from '@project-debugger/core';
 
-const core = new Core();
-console.log(core.getVersion()); // "1.0.0"
-console.log(core.greet('World')); // "Hello, World! Welcome to Core library."
+// CommonJS
+const { init } = require('@project-debugger/core');
 
-// Utility functions
-const id = generateId();
-const cloned = deepClone({ a: 1, b: { c: 2 } });
+// Initialize the debugger
+init({
+  eventsAPIUrl: 'https://your-api-endpoint.com/events',
+  sid: 'session-id', // optional
+  uid: 'user-id', // optional
+  channel: 'web', // optional, defaults to 'core'
+});
 ```
 
-### CommonJS
-
-```javascript
-const { Core, generateId, deepClone } = require('core');
-
-const core = new Core();
-console.log(core.getVersion());
-```
-
-### Browser (CDN)
+### CDN Usage
 
 ```html
-<script src="https://unpkg.com/core@1.0.0/dist/core.min.js"></script>
-<script>
-  const core = new Core.Core();
-  console.log(core.getVersion());
-  
-  // Utility functions are available globally
-  const id = Core.generateId();
-  const cloned = Core.deepClone({ a: 1 });
-</script>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Project Debugger Example</title>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+
+    <script src="https://unpkg.com/@project-debugger/core/dist/core.min.js"></script>
+    <script>
+      // The library is available as ProjectDebuggerCore
+      ProjectDebuggerCore.init({
+        eventsAPIUrl: 'https://your-api-endpoint.com/events',
+        sid: 'session-id', // optional
+        uid: 'user-id', // optional
+        channel: 'web', // optional, defaults to 'core'
+      });
+    </script>
+  </body>
+</html>
 ```
 
 ## API Reference
 
-### Core Class
+### `init(options)`
 
-#### `new Core()`
-Creates a new Core instance.
+Initializes the project debugger with the specified configuration.
 
-#### `core.getVersion(): string`
-Returns the library version.
+#### Parameters
 
-#### `core.greet(name: string): string`
-Returns a greeting message.
+- `options` (Object)
+  - `eventsAPIUrl` (string, required): The URL endpoint where events will be sent
+  - `sid` (string, optional): Session ID for tracking
+  - `uid` (string, optional): User ID for tracking
+  - `channel` (string, optional): Channel identifier, defaults to 'core'
 
-### Utility Functions
+#### Example
 
-#### `generateId(): string`
-Generates a unique ID.
+```javascript
+import { init } from '@project-debugger/core';
 
-#### `deepClone<T>(obj: T): T`
-Deep clones an object, array, or primitive value.
+init({
+  eventsAPIUrl: 'https://api.example.com/events',
+  sid: 'session-123',
+  uid: 'user-456',
+  channel: 'production',
+});
+```
 
-#### `debounce<T>(func: T, wait: number): (...args: Parameters<T>) => void`
-Creates a debounced function that delays execution.
+## Features
 
-#### `throttle<T>(func: T, limit: number): (...args: Parameters<T>) => void`
-Creates a throttled function that limits execution frequency.
-
-#### `isEmpty(value: any): boolean`
-Checks if a value is empty (null, undefined, empty string, empty array, empty object).
-
-#### `formatBytes(bytes: number, decimals?: number): string`
-Formats bytes to human-readable format.
+- **API Call Tracking**: Automatically tracks and logs API calls
+- **Console Log Recording**: Captures console.log, console.error, etc.
+- **DOM Updates**: Records DOM changes and updates
+- **Session Management**: Built-in session tracking
+- **Flexible Deployment**: Works as both npm package and CDN script
 
 ## Development
 
-### Prerequisites
-
-- Node.js >= 16.0.0
-- npm
-
-### Setup
+### Building
 
 ```bash
-# Clone the repository
-git clone <repository-url>
-cd core
-
 # Install dependencies
 npm install
-```
 
-### Available Scripts
-
-```bash
-# Build the library
+# Build for production
 npm run build
 
 # Build in watch mode
 npm run build:watch
 
-# Run tests
-npm test
-
-# Run tests in watch mode
-npm run test:watch
-
-# Lint code
-npm run lint
-
-# Fix linting issues
-npm run lint:fix
-
-# Format code
-npm run format
-
-# Check code formatting
-npm run format:check
-
 # Type checking
 npm run type-check
 
-# Clean build artifacts
-npm run clean
+# Linting
+npm run lint
+
+# Testing
+npm test
 ```
 
-### Build Output
+### Build Outputs
 
-The build process generates a single minified file optimized for CDN deployment:
+The build process generates multiple outputs:
 
-- `dist/core.min.js` - Single minified UMD format for CDN and Node.js
-- `dist/index.d.ts` - TypeScript declaration file
-
-### Project Structure
-
-```
-core/
-├── src/
-│   ├── index.ts          # Main entry point
-│   ├── types.ts          # Type definitions
-│   ├── utils.ts          # Utility functions
-│   └── __tests__/        # Test files
-├── dist/                 # Build output
-├── package.json
-├── tsconfig.json
-├── rollup.config.js
-├── jest.config.js
-├── .eslintrc.js
-├── .prettierrc
-└── README.md
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+- `dist/esm/index.js` - ES modules for modern bundlers
+- `dist/cjs/index.js` - CommonJS for Node.js
+- `dist/types/index.d.ts` - TypeScript declarations
+- `dist/core.min.js` - Minified UMD bundle for CDN
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+MIT

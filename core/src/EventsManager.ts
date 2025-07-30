@@ -1,5 +1,5 @@
 import { generateTrackingHeaders } from './lib/utils';
-import { APIEvent, DOMEvent, TrackingVariables } from './types';
+import { APIEvent, ConsoleEvent, DOMEvent, TrackingVariables } from './types';
 
 type EventMap = {
   'api-call': APIEvent;

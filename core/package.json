@@ -1,15 +1,24 @@
 {
-    "name": "core",
+    "name": "@project-debugger/core",
     "version": "1.0.0",
-    "description": "A TypeScript library that compiles to a single minified file for CDN deployment",
-    "main": "dist/core.min.js",
-    "module": "dist/core.min.js",
-    "types": "dist/index.d.ts",
+    "description": "A TypeScript library for tracking and debugging web applications. Supports both npm package and CDN usage.",
+    "main": "dist/cjs/index.js",
+    "module": "dist/esm/index.js",
+    "types": "dist/types/index.d.ts",
+    "exports": {
+        ".": {
+            "import": "./dist/esm/index.js",
+            "require": "./dist/cjs/index.js",
+            "types": "./dist/types/index.d.ts"
+        },
+        "./cdn": "./dist/core.min.js"
+    },
     "files": [
         "dist"
     ],
     "scripts": {
-        "build": "rollup -c",
+        "build": "npm run build:types && rollup -c",
+        "build:types": "tsc",
         "build:watch": "rollup -c -w",
         "dev": "rollup -c -w",
         "clean": "rimraf dist",
@@ -21,17 +30,21 @@
         "type-check": "tsc --noEmit",
         "test": "jest",
         "test:watch": "jest --watch",
+        "test:npm": "./test/npm-tests/run-all-tests.sh",
+        "publish:npm": "./scripts/publish.sh",
         "prepare": "npm run build"
     },
     "keywords": [
         "typescript",
         "library",
         "cdn",
-        "minified"
+        "minified",
+        "debugger",
+        "events",
+        "tracking"
     ],
     "author": "",
     "license": "MIT",
-    "type": "module",
     "devDependencies": {
         "@rollup/plugin-commonjs": "^25.0.0",
         "@rollup/plugin-node-resolve": "^15.0.0",
