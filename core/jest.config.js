@@ -1,8 +1,13 @@
 export default {
     preset: 'ts-jest',
     testEnvironment: 'node',
-    roots: ['<rootDir>/src'],
-    testMatch: ['**/tests**/*.ts', '**/?(*.)+(spec|test).ts'],
+    roots: ['<rootDir>'],
+    testMatch: [
+        '**/tests/**/*.ts',
+        '**/tests/**/*.js',
+        '**/?(*.)+(spec|test).ts',
+        '**/?(*.)+(spec|test).js'
+    ],
     transform: {
         '^.+\\.ts$': ['ts-jest', { useESM: true }],
     },
@@ -11,8 +16,14 @@ export default {
         '!src/**/*.d.ts',
         '!src/**/*.test.ts',
         '!src/**/*.spec.ts',
+        '!tests/**/*.ts',
+        '!tests/**/*.js'
     ],
     coverageDirectory: 'coverage',
     coverageReporters: ['text', 'lcov', 'html'],
     extensionsToTreatAsEsm: ['.ts'],
+    testPathIgnorePatterns: [
+        '/node_modules/',
+        '/dist/'
+    ]
 }; 

@@ -1,4 +1,4 @@
-import { init } from '../index';
+import { init } from '../src/index';
 
 describe('Project Debugger Core', () => {
   test('init function should be available', () => {
@@ -38,5 +38,24 @@ describe('Project Debugger Core', () => {
       // Restore window
       (global as any).window = mockWindow;
     }
+  });
+
+  test('init function should accept all required options', async () => {
+    const options = {
+      eventsAPIUrl: 'https://test.example.com/events',
+      sid: 'test-session-id',
+      uid: 'test-user-id',
+      channel: 'test-channel',
+    };
+
+    await expect(init(options)).resolves.not.toThrow();
+  });
+
+  test('init function should handle minimal options', async () => {
+    const options = {
+      eventsAPIUrl: 'https://test.example.com/events',
+    };
+
+    await expect(init(options)).resolves.not.toThrow();
   });
 });
